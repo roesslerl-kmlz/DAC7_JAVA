@@ -1,0 +1,2580 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#"><ds:SignedInfo><ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/><ds:SignatureMethod Algorithm="http://www.w3.org/2007/05/xmldsig-more#sha256-rsa-MGF1"/><ds:Reference URI="#object"><ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"/><ds:DigestValue>2qrk2+nEKeNNYQqANdmXdraNbRMr13gVQ1yIXP96EC8=</ds:DigestValue></ds:Reference></ds:SignedInfo><ds:SignatureValue>kcTpLh92O9e1q2V/WChZ90bAP/2uW6N/hc15Rlw5L9OPqqzcIp2cUpP1oQBj+x1opttOBZpW9/RZ&#13;
+mTEKXtURt1gew4uXw+tAonfRhgSnvd/DKJkg81yRWsPo8cbCY3qvg+9q6h/zILn8Fj3oQc3LNt/3&#13;
++C6WCpBlNMR4Agf9GJ0Vbn9sIviYUlHcX6yqzlLKWkgR6T8o79mtuxVqn4iWq6bxY5N7ZsIGGo3n&#13;
+nZLCvYOOUBfdirOT+P6SbCKUfcyZUhho5kGktVgQchl6DmplUV4WNeHYFe/1X88Jp/mOIRBgjofU&#13;
+U6akBf3ri/1elwdF9V2yHteX9XDkdqlIaqdZ7j7NTcfIb7ephiq1X7yVDGox5o1y76uuT17ecvGP&#13;
+Bs3N3qyy06dqmjg4xlio8kKdXJGFKUsjYxbAkzMu5iv4qi50Gsl2gogwqD1yh0K9Atou3pFQrMYW&#13;
+mFdd/zXyRS+oynQUpcokxOuba+iIKYYLwwRRXGO8sRqkUvI9rFKsqqajPEhyaMVOZEOR6u+g6UbW&#13;
+wkG80cJGJHCWcNKREBUEwydC7tDstX6PL11ieeTXZVxOHyy6Yw+FOAHslcJv2PFS6lAqbHONu6MT&#13;
+23lHn4oeYseR8JmTobqNO+B3PExCTnqaiPKP7/uaCsPQRGQ50lvP65jFb8AIn5D0P536Mabwxac=</ds:SignatureValue><ds:KeyInfo><ds:X509Data><ds:X509SubjectName>1.2.840.113549.1.9.1=#1613737570706f7274406b6d6c7a2d6974732e6465,CN=dac7-report.de,O=KMLZ ITS GmbH,L=Muenchen,ST=Bayern,C=DE</ds:X509SubjectName><ds:X509Certificate>MIIGWTCCBA2gAwIBAgIUFJADwuXdz13AFSJ3n49LgeyBiXQwQQYJKoZIhvcNAQEKMDSgDzANBglg&#13;
+hkgBZQMEAgEFAKEcMBoGCSqGSIb3DQEBCDANBglghkgBZQMEAgEFAKIDAgEgMIGGMQswCQYDVQQG&#13;
+EwJERTEPMA0GA1UECAwGQmF5ZXJuMREwDwYDVQQHDAhNdWVuY2hlbjEWMBQGA1UECgwNS01MWiBJ&#13;
+VFMgR21iSDEXMBUGA1UEAwwOZGFjNy1yZXBvcnQuZGUxIjAgBgkqhkiG9w0BCQEWE3N1cHBvcnRA&#13;
+a21sei1pdHMuZGUwHhcNMjQwMjI3MTEwMzIxWhcNMjQwMzI4MTEwMzIxWjCBhjELMAkGA1UEBhMC&#13;
+REUxDzANBgNVBAgMBkJheWVybjERMA8GA1UEBwwITXVlbmNoZW4xFjAUBgNVBAoMDUtNTFogSVRT&#13;
+IEdtYkgxFzAVBgNVBAMMDmRhYzctcmVwb3J0LmRlMSIwIAYJKoZIhvcNAQkBFhNzdXBwb3J0QGtt&#13;
+bHotaXRzLmRlMIICVjBBBgkqhkiG9w0BAQowNKAPMA0GCWCGSAFlAwQCAQUAoRwwGgYJKoZIhvcN&#13;
+AQEIMA0GCWCGSAFlAwQCAQUAogMCASADggIPADCCAgoCggIBAMQfzeRLtnOrei6xxPo9Gdj3Z4zu&#13;
+Lp7JJ+PSj+KxM3jWOtj4TespxIuUhWe66BMhYvVlI2+FcxeEkbDfjEswSHtzjNS6b/caQ6zM9H0B&#13;
+kR3bnctOy5AhwTGPLyGAwy77LFXDhG3KOOMeq7RbdaaJaMdkR/H80och2PGLWPwnaREzsR7MtOv2&#13;
+b9lcMKxdGJuJj6455ll7eER6aogIZTu5MsfLCOeYl8lBQqX2ZHk2zAeeFoBQLiPquMmsztPYQ9jq&#13;
+jtA0loLJ8upOEgrlheIdCWSnIM1N/EJQDDdUlAXz4IPsgoi9fhEayz0yLBo21ln0guTkWEMqfwIb&#13;
+c7A4Q/3KnEXwO/HsdRc5un2NYHIfHfbBgKCN0Ut643iCoQb4iLlBg2tOgIMySmevqvQaSQSj8i8U&#13;
+VRwgh+x3/QNpYGRkXjWrkcDIHAIKCkFICEvxQyCTNPP9zj44MwH61N3A+rga2VroZwIAXcNmIi6n&#13;
+0tg0x5qwzv//YliBYc1uPSu0bvQWpyNwyxYMWl6XnGRfcktSAmNcIErnJWRRktBCTxQ5T7UXs3vE&#13;
+gYAojy6d+VY3EgxMaBjb85rQkAN3NOkOddU2OSsO5h0gLRDMUnddGz3B8cdNOiUfNOwuR54Y3AAX&#13;
+//Z7l/qfgjRQO3UI+K09fzpGHygGGLmPQicM+VYhHrivCdBhAgMBAAGjITAfMB0GA1UdDgQWBBTH&#13;
+h1/dMmfK+WgpZ7US8ldr4HzquDBBBgkqhkiG9w0BAQowNKAPMA0GCWCGSAFlAwQCAQUAoRwwGgYJ&#13;
+KoZIhvcNAQEIMA0GCWCGSAFlAwQCAQUAogMCASADggIBABUKWCXSHy/3PF15T8zTvfmDpPCM7OEg&#13;
+Df8/+fSTGaZsKysbKYHTDN6VbVEcl5yrnDULQX3akzd8v4RZvFa/Nam2AnKosH3AToxfvxHIuce4&#13;
+HLlmOgtM8LNh3GoFAe4IodOE4dT4KvUDbEElbhsoV9YUqQjGjpPEgF+WzBih6YWA9BQ95kp+wlX2&#13;
+wiOBf6YQ33auaXI+W/fl9V9u6GyYBNoACN9KHTqu4tSK10Opjj+NOnbCE/paPizz9+Ts5w5Nr/7n&#13;
+WquavzhY66PsFmZ5AhiLqMn/U4RPsfrZ65brOoCcZH3k1xa5w2KvH+2tHYPFcPrWoFCgA0oas0KV&#13;
+cJBbsj2NhPC8fDSdYpWWjtF4WcIeazjLA+nmmd6V876Y48+5ov7WoVVJqeIRCiiIVTmva9+2UMtN&#13;
+mPSBFrzy2xyi2xCvgp4eCwcdsI2msI9GRt5qkxj1d0wQk2QT4hokXMz5ZNi7C4Zcz0hQnuzvKmsY&#13;
+qb6RH6b6OOYhbAsKqeFM27SOmg6YOEBDPyvoVJUF8zRcMDkqlzfMTicdlt1NJKI3QKIjnuDf/OzF&#13;
+Ta0RCz3bie7+1jp9Ac5SxFEMSBCSw+83MoVu5Trw6FPc1E46NGZYJdSHSI1CtQW0HX7w8Ps403CJ&#13;
+FtXaN3q6DlHHOCspDs3EqcDSmMIJsBjni7lk5/JpmhHy</ds:X509Certificate></ds:X509Data></ds:KeyInfo><ds:Object Id="object"><dip:dip xmlns:dip="http://itzbund.de/ozg/bzst/post/dip/v1/" xmlns:dpi="urn:oecd:ties:dpi:v1" xmlns:iso="urn:oecd:ties:isodpitypes:v1" xmlns:stf="urn:oecd:ties:dpistf:v1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0" xsi:schemaLocation="http://itzbund.de/ozg/bzst/post/dip/v1/ dip.xsd ">
+  <dip:header environment="PROD">
+    <dip:consignment>
+      <dip:customerIdentifier>
+        <dip:identityProvider>BZST-CERT</dip:identityProvider>
+        <dip:identifier>BZ100058034</dip:identifier>
+      </dip:customerIdentifier>
+      <dip:creationTime>2025-01-03T09:33:44</dip:creationTime>
+      <dip:transferticketId>DE2023-6777a619816a7fc3f4cd12a570</dip:transferticketId>
+    </dip:consignment>
+    <dip:application code="DAC7"/>
+  </dip:header>
+  <dip:body>
+    <dip:consignmentItem>
+      <dip:data>
+        <dpi:DPI_OECD version="1.0" xsi:schemaLocation="http://itzbund.de/ozg/bzst/post/dip/v1/ dip.xsd ">
+          <dpi:MessageSpec>
+            <dpi:SendingEntityIN>143/176/05030</dpi:SendingEntityIN>
+            <dpi:TransmittingCountry>DE</dpi:TransmittingCountry>
+            <dpi:ReceivingCountry>DE</dpi:ReceivingCountry>
+            <dpi:MessageType>DPI</dpi:MessageType>
+            <dpi:MessageRefId>DE2023DE-c8130595-7fe4-4cda-ae6a-0737de16a9e4</dpi:MessageRefId>
+            <dpi:MessageTypeIndic>DPI401</dpi:MessageTypeIndic>
+            <dpi:ReportingPeriod>2023-12-31</dpi:ReportingPeriod>
+            <dpi:Timestamp>2025-01-03T09:33:44</dpi:Timestamp>
+          </dpi:MessageSpec>
+          <dpi:DPIBody>
+            <dpi:PlatformOperator>
+              <dpi:ResCountryCode>DE</dpi:ResCountryCode>
+              <dpi:TIN issuedBy="DE">143/176/05030</dpi:TIN>
+              <dpi:IN INType="BRN" issuedBy="DE">HRB 271191</dpi:IN>
+              <dpi:VAT>DE348712386</dpi:VAT>
+              <dpi:Name>roadsurfer spots &amp; travel GmbH</dpi:Name>
+              <dpi:Address legalAddressType="OECD304">
+                <dpi:CountryCode>DE</dpi:CountryCode>
+                <dpi:AddressFix>
+                  <dpi:Street>Winzererstraße</dpi:Street>
+                  <dpi:BuildingIdentifier>47d</dpi:BuildingIdentifier>
+                  <dpi:PostCode>80797</dpi:PostCode>
+                  <dpi:City>München</dpi:City>
+                </dpi:AddressFix>
+              </dpi:Address>
+              <dpi:Nexus>RPONEX1</dpi:Nexus>
+              <dpi:AssumedReporting>false</dpi:AssumedReporting>
+              <dpi:DocSpec>
+                <stf:DocTypeIndic>OECD1</stf:DocTypeIndic>
+                <stf:DocRefId>DE2023-23576f3d-8b03-486e-b742-62fbfd15399970</stf:DocRefId>
+              </dpi:DocSpec>
+            </dpi:PlatformOperator>
+            <dpi:ReportableSeller>
+              <dpi:Identity>
+                <dpi:EntitySeller>
+                  <dpi:Standard>
+                    <dpi:EntSellerID>
+                      <dpi:ResCountryCode>AT</dpi:ResCountryCode>
+                      <dpi:TIN unknown="true"/>
+                      <dpi:Name>Brandgut</dpi:Name>
+                      <dpi:Address>
+                        <dpi:CountryCode>AT</dpi:CountryCode>
+                        <dpi:AddressFree>Stiegerniggstraße 42, 5752, Viehhofen</dpi:AddressFree>
+                      </dpi:Address>
+                    </dpi:EntSellerID>
+                  </dpi:Standard>
+                </dpi:EntitySeller>
+              </dpi:Identity>
+              <dpi:RelevantActivities>
+                <dpi:ImmovableProperty>
+                  <dpi:PropertyListing>
+                    <dpi:Address>
+                      <dpi:CountryCode>AT</dpi:CountryCode>
+                      <dpi:AddressFree>Stiegerniggstraße 42, 5752, Viehhofen</dpi:AddressFree>
+                    </dpi:Address>
+                    <dpi:Consideration>
+                      <dpi:ConsQ1 currCode="EUR">0</dpi:ConsQ1>
+                      <dpi:ConsQ2 currCode="EUR">400</dpi:ConsQ2>
+                      <dpi:ConsQ3 currCode="EUR">2020</dpi:ConsQ3>
+                      <dpi:ConsQ4 currCode="EUR">0</dpi:ConsQ4>
+                    </dpi:Consideration>
+                    <dpi:NumberOfActivities>
+                      <dpi:NumbQ1>0</dpi:NumbQ1>
+                      <dpi:NumbQ2>10</dpi:NumbQ2>
+                      <dpi:NumbQ3>57</dpi:NumbQ3>
+                      <dpi:NumbQ4>0</dpi:NumbQ4>
+                    </dpi:NumberOfActivities>
+                    <dpi:Fees>
+                      <dpi:FeesQ1 currCode="EUR">0</dpi:FeesQ1>
+                      <dpi:FeesQ2 currCode="EUR">88</dpi:FeesQ2>
+                      <dpi:FeesQ3 currCode="EUR">455</dpi:FeesQ3>
+                      <dpi:FeesQ4 currCode="EUR">0</dpi:FeesQ4>
+                    </dpi:Fees>
+                    <dpi:Taxes>
+                      <dpi:TaxQ1 currCode="EUR">0</dpi:TaxQ1>
+                      <dpi:TaxQ2 currCode="EUR">18</dpi:TaxQ2>
+                      <dpi:TaxQ3 currCode="EUR">91</dpi:TaxQ3>
+                      <dpi:TaxQ4 currCode="EUR">0</dpi:TaxQ4>
+                    </dpi:Taxes>
+                    <dpi:RentedDays>164</dpi:RentedDays>
+                  </dpi:PropertyListing>
+                  <dpi:PropertyListing>
+                    <dpi:Address>
+                      <dpi:CountryCode>AT</dpi:CountryCode>
+                      <dpi:AddressFree>Stiegerniggstraße, 42, 5752, Viehhofen</dpi:AddressFree>
+                    </dpi:Address>
+                    <dpi:Consideration>
+                      <dpi:ConsQ1 currCode="EUR">0</dpi:ConsQ1>
+                      <dpi:ConsQ2 currCode="EUR">340</dpi:ConsQ2>
+                      <dpi:ConsQ3 currCode="EUR">1600</dpi:ConsQ3>
+                      <dpi:ConsQ4 currCode="EUR">0</dpi:ConsQ4>
+                    </dpi:Consideration>
+                    <dpi:NumberOfActivities>
+                      <dpi:NumbQ1>0</dpi:NumbQ1>
+                      <dpi:NumbQ2>14</dpi:NumbQ2>
+                      <dpi:NumbQ3>51</dpi:NumbQ3>
+                      <dpi:NumbQ4>0</dpi:NumbQ4>
+                    </dpi:NumberOfActivities>
+                    <dpi:Fees>
+                      <dpi:FeesQ1 currCode="EUR">0</dpi:FeesQ1>
+                      <dpi:FeesQ2 currCode="EUR">86</dpi:FeesQ2>
+                      <dpi:FeesQ3 currCode="EUR">373</dpi:FeesQ3>
+                      <dpi:FeesQ4 currCode="EUR">0</dpi:FeesQ4>
+                    </dpi:Fees>
+                    <dpi:Taxes>
+                      <dpi:TaxQ1 currCode="EUR">0</dpi:TaxQ1>
+                      <dpi:TaxQ2 currCode="EUR">17</dpi:TaxQ2>
+                      <dpi:TaxQ3 currCode="EUR">74</dpi:TaxQ3>
+                      <dpi:TaxQ4 currCode="EUR">0</dpi:TaxQ4>
+                    </dpi:Taxes>
+                    <dpi:RentedDays>162</dpi:RentedDays>
+                  </dpi:PropertyListing>
+                  <dpi:PropertyListing>
+                    <dpi:Address>
+                      <dpi:CountryCode>AT</dpi:CountryCode>
+                      <dpi:AddressFree>Stiegerniggstraße, 42, 5752, Viehhofen</dpi:AddressFree>
+                    </dpi:Address>
+                    <dpi:Consideration>
+                      <dpi:ConsQ1 currCode="EUR">0</dpi:ConsQ1>
+                      <dpi:ConsQ2 currCode="EUR">300</dpi:ConsQ2>
+                      <dpi:ConsQ3 currCode="EUR">2780</dpi:ConsQ3>
+                      <dpi:ConsQ4 currCode="EUR">0</dpi:ConsQ4>
+                    </dpi:Consideration>
+                    <dpi:NumberOfActivities>
+                      <dpi:NumbQ1>0</dpi:NumbQ1>
+                      <dpi:NumbQ2>13</dpi:NumbQ2>
+                      <dpi:NumbQ3>93</dpi:NumbQ3>
+                      <dpi:NumbQ4>0</dpi:NumbQ4>
+                    </dpi:NumberOfActivities>
+                    <dpi:Fees>
+                      <dpi:FeesQ1 currCode="EUR">0</dpi:FeesQ1>
+                      <dpi:FeesQ2 currCode="EUR">77</dpi:FeesQ2>
+                      <dpi:FeesQ3 currCode="EUR">657</dpi:FeesQ3>
+                      <dpi:FeesQ4 currCode="EUR">0</dpi:FeesQ4>
+                    </dpi:Fees>
+                    <dpi:Taxes>
+                      <dpi:TaxQ1 currCode="EUR">0</dpi:TaxQ1>
+                      <dpi:TaxQ2 currCode="EUR">15</dpi:TaxQ2>
+                      <dpi:TaxQ3 currCode="EUR">131</dpi:TaxQ3>
+                      <dpi:TaxQ4 currCode="EUR">0</dpi:TaxQ4>
+                    </dpi:Taxes>
+                    <dpi:RentedDays>260</dpi:RentedDays>
+                  </dpi:PropertyListing>
+                </dpi:ImmovableProperty>
+              </dpi:RelevantActivities>
+              <dpi:DocSpec>
+                <stf:DocTypeIndic>OECD1</stf:DocTypeIndic>
+                <stf:DocRefId>DE2023-2023d6da93a4-63c4-4fb2-af86-1ac34241d6bf</stf:DocRefId>
+              </dpi:DocSpec>
+            </dpi:ReportableSeller>
+            <dpi:ReportableSeller>
+              <dpi:Identity>
+                <dpi:EntitySeller>
+                  <dpi:Standard>
+                    <dpi:EntSellerID>
+                      <dpi:ResCountryCode>DE</dpi:ResCountryCode>
+                      <dpi:TIN issuedBy="DE">417101E+12</dpi:TIN>
+                      <dpi:Name>Gemeinde Rhönblick</dpi:Name>
+                      <dpi:Address>
+                        <dpi:CountryCode>DE</dpi:CountryCode>
+                        <dpi:AddressFree>Marktgasse 106, 98617, Rhönblick</dpi:AddressFree>
+                      </dpi:Address>
+                    </dpi:EntSellerID>
+                  </dpi:Standard>
+                </dpi:EntitySeller>
+              </dpi:Identity>
+              <dpi:RelevantActivities>
+                <dpi:ImmovableProperty>
+                  <dpi:PropertyListing>
+                    <dpi:Address>
+                      <dpi:CountryCode>DE</dpi:CountryCode>
+                      <dpi:AddressFree>Hohe Geba Parkplatz 1, 98617, Rhönblick</dpi:AddressFree>
+                    </dpi:Address>
+                    <dpi:Consideration>
+                      <dpi:ConsQ1 currCode="EUR">50</dpi:ConsQ1>
+                      <dpi:ConsQ2 currCode="EUR">30</dpi:ConsQ2>
+                      <dpi:ConsQ3 currCode="EUR">245</dpi:ConsQ3>
+                      <dpi:ConsQ4 currCode="EUR">35</dpi:ConsQ4>
+                    </dpi:Consideration>
+                    <dpi:NumberOfActivities>
+                      <dpi:NumbQ1>3</dpi:NumbQ1>
+                      <dpi:NumbQ2>6</dpi:NumbQ2>
+                      <dpi:NumbQ3>25</dpi:NumbQ3>
+                      <dpi:NumbQ4>4</dpi:NumbQ4>
+                    </dpi:NumberOfActivities>
+                    <dpi:Fees>
+                      <dpi:FeesQ1 currCode="EUR">15</dpi:FeesQ1>
+                      <dpi:FeesQ2 currCode="EUR">18</dpi:FeesQ2>
+                      <dpi:FeesQ3 currCode="EUR">94</dpi:FeesQ3>
+                      <dpi:FeesQ4 currCode="EUR">14</dpi:FeesQ4>
+                    </dpi:Fees>
+                    <dpi:Taxes>
+                      <dpi:TaxQ1 currCode="EUR">3</dpi:TaxQ1>
+                      <dpi:TaxQ2 currCode="EUR">3</dpi:TaxQ2>
+                      <dpi:TaxQ3 currCode="EUR">18</dpi:TaxQ3>
+                      <dpi:TaxQ4 currCode="EUR">3</dpi:TaxQ4>
+                    </dpi:Taxes>
+                    <dpi:RentedDays>110</dpi:RentedDays>
+                  </dpi:PropertyListing>
+                  <dpi:PropertyListing>
+                    <dpi:Address>
+                      <dpi:CountryCode>DE</dpi:CountryCode>
+                      <dpi:AddressFree>Werner Wachenbrunner Str. 34, 98617, Rhönblick</dpi:AddressFree>
+                    </dpi:Address>
+                    <dpi:Consideration>
+                      <dpi:ConsQ1 currCode="EUR">0</dpi:ConsQ1>
+                      <dpi:ConsQ2 currCode="EUR">96</dpi:ConsQ2>
+                      <dpi:ConsQ3 currCode="EUR">104</dpi:ConsQ3>
+                      <dpi:ConsQ4 currCode="EUR">0</dpi:ConsQ4>
+                    </dpi:Consideration>
+                    <dpi:NumberOfActivities>
+                      <dpi:NumbQ1>0</dpi:NumbQ1>
+                      <dpi:NumbQ2>8</dpi:NumbQ2>
+                      <dpi:NumbQ3>11</dpi:NumbQ3>
+                      <dpi:NumbQ4>0</dpi:NumbQ4>
+                    </dpi:NumberOfActivities>
+                    <dpi:Fees>
+                      <dpi:FeesQ1 currCode="EUR">0</dpi:FeesQ1>
+                      <dpi:FeesQ2 currCode="EUR">33</dpi:FeesQ2>
+                      <dpi:FeesQ3 currCode="EUR">41</dpi:FeesQ3>
+                      <dpi:FeesQ4 currCode="EUR">0</dpi:FeesQ4>
+                    </dpi:Fees>
+                    <dpi:Taxes>
+                      <dpi:TaxQ1 currCode="EUR">0</dpi:TaxQ1>
+                      <dpi:TaxQ2 currCode="EUR">6</dpi:TaxQ2>
+                      <dpi:TaxQ3 currCode="EUR">8</dpi:TaxQ3>
+                      <dpi:TaxQ4 currCode="EUR">0</dpi:TaxQ4>
+                    </dpi:Taxes>
+                    <dpi:RentedDays>44</dpi:RentedDays>
+                  </dpi:PropertyListing>
+                  <dpi:PropertyListing>
+                    <dpi:Address>
+                      <dpi:CountryCode>DE</dpi:CountryCode>
+                      <dpi:AddressFree>Bootshaus 1, 98617, Rhönblick</dpi:AddressFree>
+                    </dpi:Address>
+                    <dpi:Consideration>
+                      <dpi:ConsQ1 currCode="EUR">32</dpi:ConsQ1>
+                      <dpi:ConsQ2 currCode="EUR">0</dpi:ConsQ2>
+                      <dpi:ConsQ3 currCode="EUR">0</dpi:ConsQ3>
+                      <dpi:ConsQ4 currCode="EUR">0</dpi:ConsQ4>
+                    </dpi:Consideration>
+                    <dpi:NumberOfActivities>
+                      <dpi:NumbQ1>1</dpi:NumbQ1>
+                      <dpi:NumbQ2>0</dpi:NumbQ2>
+                      <dpi:NumbQ3>0</dpi:NumbQ3>
+                      <dpi:NumbQ4>0</dpi:NumbQ4>
+                    </dpi:NumberOfActivities>
+                    <dpi:Fees>
+                      <dpi:FeesQ1 currCode="EUR">7</dpi:FeesQ1>
+                      <dpi:FeesQ2 currCode="EUR">0</dpi:FeesQ2>
+                      <dpi:FeesQ3 currCode="EUR">0</dpi:FeesQ3>
+                      <dpi:FeesQ4 currCode="EUR">0</dpi:FeesQ4>
+                    </dpi:Fees>
+                    <dpi:Taxes>
+                      <dpi:TaxQ1 currCode="EUR">1</dpi:TaxQ1>
+                      <dpi:TaxQ2 currCode="EUR">0</dpi:TaxQ2>
+                      <dpi:TaxQ3 currCode="EUR">0</dpi:TaxQ3>
+                      <dpi:TaxQ4 currCode="EUR">0</dpi:TaxQ4>
+                    </dpi:Taxes>
+                    <dpi:RentedDays>3</dpi:RentedDays>
+                  </dpi:PropertyListing>
+                  <dpi:PropertyListing>
+                    <dpi:Address>
+                      <dpi:CountryCode>DE</dpi:CountryCode>
+                      <dpi:AddressFree>Fasanerie 92, 98617, Rhönblick</dpi:AddressFree>
+                    </dpi:Address>
+                    <dpi:Consideration>
+                      <dpi:ConsQ1 currCode="EUR">0</dpi:ConsQ1>
+                      <dpi:ConsQ2 currCode="EUR">0</dpi:ConsQ2>
+                      <dpi:ConsQ3 currCode="EUR">8</dpi:ConsQ3>
+                      <dpi:ConsQ4 currCode="EUR">0</dpi:ConsQ4>
+                    </dpi:Consideration>
+                    <dpi:NumberOfActivities>
+                      <dpi:NumbQ1>0</dpi:NumbQ1>
+                      <dpi:NumbQ2>0</dpi:NumbQ2>
+                      <dpi:NumbQ3>1</dpi:NumbQ3>
+                      <dpi:NumbQ4>0</dpi:NumbQ4>
+                    </dpi:NumberOfActivities>
+                    <dpi:Fees>
+                      <dpi:FeesQ1 currCode="EUR">0</dpi:FeesQ1>
+                      <dpi:FeesQ2 currCode="EUR">0</dpi:FeesQ2>
+                      <dpi:FeesQ3 currCode="EUR">3</dpi:FeesQ3>
+                      <dpi:FeesQ4 currCode="EUR">0</dpi:FeesQ4>
+                    </dpi:Fees>
+                    <dpi:Taxes>
+                      <dpi:TaxQ1 currCode="EUR">0</dpi:TaxQ1>
+                      <dpi:TaxQ2 currCode="EUR">0</dpi:TaxQ2>
+                      <dpi:TaxQ3 currCode="EUR">1</dpi:TaxQ3>
+                      <dpi:TaxQ4 currCode="EUR">0</dpi:TaxQ4>
+                    </dpi:Taxes>
+                    <dpi:RentedDays>2</dpi:RentedDays>
+                  </dpi:PropertyListing>
+                </dpi:ImmovableProperty>
+              </dpi:RelevantActivities>
+              <dpi:DocSpec>
+                <stf:DocTypeIndic>OECD1</stf:DocTypeIndic>
+                <stf:DocRefId>DE2023-20233156e4df-bfe1-4afd-bcf8-87862e5b35f7</stf:DocRefId>
+              </dpi:DocSpec>
+            </dpi:ReportableSeller>
+            <dpi:ReportableSeller>
+              <dpi:Identity>
+                <dpi:EntitySeller>
+                  <dpi:Standard>
+                    <dpi:EntSellerID>
+                      <dpi:ResCountryCode>DE</dpi:ResCountryCode>
+                      <dpi:TIN issuedBy="DE">972604E+12</dpi:TIN>
+                      <dpi:Name>Lieb</dpi:Name>
+                      <dpi:Address>
+                        <dpi:CountryCode>DE</dpi:CountryCode>
+                        <dpi:AddressFree>Nachsee 49, 86975, Bernbeuren</dpi:AddressFree>
+                      </dpi:Address>
+                    </dpi:EntSellerID>
+                  </dpi:Standard>
+                </dpi:EntitySeller>
+              </dpi:Identity>
+              <dpi:RelevantActivities>
+                <dpi:ImmovableProperty>
+                  <dpi:PropertyListing>
+                    <dpi:Address>
+                      <dpi:CountryCode>DE</dpi:CountryCode>
+                      <dpi:AddressFree>Nachsee, 49, 86975, Bernbeuren</dpi:AddressFree>
+                    </dpi:Address>
+                    <dpi:LandRegistrationNumber>140.2</dpi:LandRegistrationNumber>
+                    <dpi:Consideration>
+                      <dpi:ConsQ1 currCode="EUR">49</dpi:ConsQ1>
+                      <dpi:ConsQ2 currCode="EUR">338</dpi:ConsQ2>
+                      <dpi:ConsQ3 currCode="EUR">782</dpi:ConsQ3>
+                      <dpi:ConsQ4 currCode="EUR">60</dpi:ConsQ4>
+                    </dpi:Consideration>
+                    <dpi:NumberOfActivities>
+                      <dpi:NumbQ1>5</dpi:NumbQ1>
+                      <dpi:NumbQ2>18</dpi:NumbQ2>
+                      <dpi:NumbQ3>44</dpi:NumbQ3>
+                      <dpi:NumbQ4>3</dpi:NumbQ4>
+                    </dpi:NumberOfActivities>
+                    <dpi:Fees>
+                      <dpi:FeesQ1 currCode="EUR">19</dpi:FeesQ1>
+                      <dpi:FeesQ2 currCode="EUR">95</dpi:FeesQ2>
+                      <dpi:FeesQ3 currCode="EUR">224</dpi:FeesQ3>
+                      <dpi:FeesQ4 currCode="EUR">16</dpi:FeesQ4>
+                    </dpi:Fees>
+                    <dpi:Taxes>
+                      <dpi:TaxQ1 currCode="EUR">4</dpi:TaxQ1>
+                      <dpi:TaxQ2 currCode="EUR">18</dpi:TaxQ2>
+                      <dpi:TaxQ3 currCode="EUR">42</dpi:TaxQ3>
+                      <dpi:TaxQ4 currCode="EUR">3</dpi:TaxQ4>
+                    </dpi:Taxes>
+                    <dpi:RentedDays>162</dpi:RentedDays>
+                  </dpi:PropertyListing>
+                  <dpi:PropertyListing>
+                    <dpi:Address>
+                      <dpi:CountryCode>DE</dpi:CountryCode>
+                      <dpi:AddressFree>Nachsee 49, 86975, Bernbeuren</dpi:AddressFree>
+                    </dpi:Address>
+                    <dpi:LandRegistrationNumber>140.2</dpi:LandRegistrationNumber>
+                    <dpi:Consideration>
+                      <dpi:ConsQ1 currCode="EUR">0</dpi:ConsQ1>
+                      <dpi:ConsQ2 currCode="EUR">195</dpi:ConsQ2>
+                      <dpi:ConsQ3 currCode="EUR">377</dpi:ConsQ3>
+                      <dpi:ConsQ4 currCode="EUR">0</dpi:ConsQ4>
+                    </dpi:Consideration>
+                    <dpi:NumberOfActivities>
+                      <dpi:NumbQ1>0</dpi:NumbQ1>
+                      <dpi:NumbQ2>15</dpi:NumbQ2>
+                      <dpi:NumbQ3>26</dpi:NumbQ3>
+                      <dpi:NumbQ4>0</dpi:NumbQ4>
+                    </dpi:NumberOfActivities>
+                    <dpi:Fees>
+                      <dpi:FeesQ1 currCode="EUR">0</dpi:FeesQ1>
+                      <dpi:FeesQ2 currCode="EUR">64</dpi:FeesQ2>
+                      <dpi:FeesQ3 currCode="EUR">118</dpi:FeesQ3>
+                      <dpi:FeesQ4 currCode="EUR">0</dpi:FeesQ4>
+                    </dpi:Fees>
+                    <dpi:Taxes>
+                      <dpi:TaxQ1 currCode="EUR">0</dpi:TaxQ1>
+                      <dpi:TaxQ2 currCode="EUR">12</dpi:TaxQ2>
+                      <dpi:TaxQ3 currCode="EUR">22</dpi:TaxQ3>
+                      <dpi:TaxQ4 currCode="EUR">0</dpi:TaxQ4>
+                    </dpi:Taxes>
+                    <dpi:RentedDays>85</dpi:RentedDays>
+                  </dpi:PropertyListing>
+                </dpi:ImmovableProperty>
+              </dpi:RelevantActivities>
+              <dpi:DocSpec>
+                <stf:DocTypeIndic>OECD1</stf:DocTypeIndic>
+                <stf:DocRefId>DE2023-2023e01a2e6a-ec09-4b9b-bf52-180781538ca6</stf:DocRefId>
+              </dpi:DocSpec>
+            </dpi:ReportableSeller>
+            <dpi:ReportableSeller>
+              <dpi:Identity>
+                <dpi:EntitySeller>
+                  <dpi:Standard>
+                    <dpi:EntSellerID>
+                      <dpi:ResCountryCode>DE</dpi:ResCountryCode>
+                      <dpi:TIN issuedBy="DE">61492706537</dpi:TIN>
+                      <dpi:Name>Schlitzer</dpi:Name>
+                      <dpi:Address>
+                        <dpi:CountryCode>DE</dpi:CountryCode>
+                        <dpi:AddressFree>Marienstr. 1, 36137, Grossenlüder</dpi:AddressFree>
+                      </dpi:Address>
+                    </dpi:EntSellerID>
+                  </dpi:Standard>
+                </dpi:EntitySeller>
+              </dpi:Identity>
+              <dpi:RelevantActivities>
+                <dpi:ImmovableProperty>
+                  <dpi:PropertyListing>
+                    <dpi:Address>
+                      <dpi:CountryCode>DE</dpi:CountryCode>
+                      <dpi:AddressFree>Zur Winterliede, 36137, Bimbach</dpi:AddressFree>
+                    </dpi:Address>
+                    <dpi:Consideration>
+                      <dpi:ConsQ1 currCode="EUR">39</dpi:ConsQ1>
+                      <dpi:ConsQ2 currCode="EUR">307</dpi:ConsQ2>
+                      <dpi:ConsQ3 currCode="EUR">88</dpi:ConsQ3>
+                      <dpi:ConsQ4 currCode="EUR">105</dpi:ConsQ4>
+                    </dpi:Consideration>
+                    <dpi:NumberOfActivities>
+                      <dpi:NumbQ1>2</dpi:NumbQ1>
+                      <dpi:NumbQ2>8</dpi:NumbQ2>
+                      <dpi:NumbQ3>6</dpi:NumbQ3>
+                      <dpi:NumbQ4>5</dpi:NumbQ4>
+                    </dpi:NumberOfActivities>
+                    <dpi:Fees>
+                      <dpi:FeesQ1 currCode="EUR">11</dpi:FeesQ1>
+                      <dpi:FeesQ2 currCode="EUR">68</dpi:FeesQ2>
+                      <dpi:FeesQ3 currCode="EUR">27</dpi:FeesQ3>
+                      <dpi:FeesQ4 currCode="EUR">28</dpi:FeesQ4>
+                    </dpi:Fees>
+                    <dpi:Taxes>
+                      <dpi:TaxQ1 currCode="EUR">2</dpi:TaxQ1>
+                      <dpi:TaxQ2 currCode="EUR">13</dpi:TaxQ2>
+                      <dpi:TaxQ3 currCode="EUR">5</dpi:TaxQ3>
+                      <dpi:TaxQ4 currCode="EUR">5</dpi:TaxQ4>
+                    </dpi:Taxes>
+                    <dpi:RentedDays>58</dpi:RentedDays>
+                  </dpi:PropertyListing>
+                  <dpi:PropertyListing>
+                    <dpi:Address>
+                      <dpi:CountryCode>DE</dpi:CountryCode>
+                      <dpi:AddressFree>Zur Winterliede, 36137, Bimbach</dpi:AddressFree>
+                    </dpi:Address>
+                    <dpi:Consideration>
+                      <dpi:ConsQ1 currCode="EUR">0</dpi:ConsQ1>
+                      <dpi:ConsQ2 currCode="EUR">45</dpi:ConsQ2>
+                      <dpi:ConsQ3 currCode="EUR">90</dpi:ConsQ3>
+                      <dpi:ConsQ4 currCode="EUR">27</dpi:ConsQ4>
+                    </dpi:Consideration>
+                    <dpi:NumberOfActivities>
+                      <dpi:NumbQ1>0</dpi:NumbQ1>
+                      <dpi:NumbQ2>4</dpi:NumbQ2>
+                      <dpi:NumbQ3>10</dpi:NumbQ3>
+                      <dpi:NumbQ4>3</dpi:NumbQ4>
+                    </dpi:NumberOfActivities>
+                    <dpi:Fees>
+                      <dpi:FeesQ1 currCode="EUR">0</dpi:FeesQ1>
+                      <dpi:FeesQ2 currCode="EUR">16</dpi:FeesQ2>
+                      <dpi:FeesQ3 currCode="EUR">36</dpi:FeesQ3>
+                      <dpi:FeesQ4 currCode="EUR">11</dpi:FeesQ4>
+                    </dpi:Fees>
+                    <dpi:Taxes>
+                      <dpi:TaxQ1 currCode="EUR">0</dpi:TaxQ1>
+                      <dpi:TaxQ2 currCode="EUR">3</dpi:TaxQ2>
+                      <dpi:TaxQ3 currCode="EUR">7</dpi:TaxQ3>
+                      <dpi:TaxQ4 currCode="EUR">2</dpi:TaxQ4>
+                    </dpi:Taxes>
+                    <dpi:RentedDays>35</dpi:RentedDays>
+                  </dpi:PropertyListing>
+                </dpi:ImmovableProperty>
+              </dpi:RelevantActivities>
+              <dpi:DocSpec>
+                <stf:DocTypeIndic>OECD1</stf:DocTypeIndic>
+                <stf:DocRefId>DE2023-2023adbd7621-5b9d-47c8-b48a-ee9a6d22ddc3</stf:DocRefId>
+              </dpi:DocSpec>
+            </dpi:ReportableSeller>
+            <dpi:ReportableSeller>
+              <dpi:Identity>
+                <dpi:EntitySeller>
+                  <dpi:Standard>
+                    <dpi:EntSellerID>
+                      <dpi:ResCountryCode>DE</dpi:ResCountryCode>
+                      <dpi:TIN issuedBy="DE">320202E+12</dpi:TIN>
+                      <dpi:Name>Ludewig</dpi:Name>
+                      <dpi:Address>
+                        <dpi:CountryCode>DE</dpi:CountryCode>
+                        <dpi:AddressFree>Bautzner Landstrasse 57, 01324, Dresden</dpi:AddressFree>
+                      </dpi:Address>
+                    </dpi:EntSellerID>
+                  </dpi:Standard>
+                </dpi:EntitySeller>
+              </dpi:Identity>
+              <dpi:RelevantActivities>
+                <dpi:ImmovableProperty>
+                  <dpi:PropertyListing>
+                    <dpi:Address>
+                      <dpi:CountryCode>DE</dpi:CountryCode>
+                      <dpi:AddressFree>Hauptstrasse 88, 1833, Dürrröhrsdorf-Dittersbach</dpi:AddressFree>
+                    </dpi:Address>
+                    <dpi:Consideration>
+                      <dpi:ConsQ1 currCode="EUR">0</dpi:ConsQ1>
+                      <dpi:ConsQ2 currCode="EUR">270</dpi:ConsQ2>
+                      <dpi:ConsQ3 currCode="EUR">210</dpi:ConsQ3>
+                      <dpi:ConsQ4 currCode="EUR">45</dpi:ConsQ4>
+                    </dpi:Consideration>
+                    <dpi:NumberOfActivities>
+                      <dpi:NumbQ1>0</dpi:NumbQ1>
+                      <dpi:NumbQ2>8</dpi:NumbQ2>
+                      <dpi:NumbQ3>10</dpi:NumbQ3>
+                      <dpi:NumbQ4>2</dpi:NumbQ4>
+                    </dpi:NumberOfActivities>
+                    <dpi:Fees>
+                      <dpi:FeesQ1 currCode="EUR">0</dpi:FeesQ1>
+                      <dpi:FeesQ2 currCode="EUR">62</dpi:FeesQ2>
+                      <dpi:FeesQ3 currCode="EUR">56</dpi:FeesQ3>
+                      <dpi:FeesQ4 currCode="EUR">12</dpi:FeesQ4>
+                    </dpi:Fees>
+                    <dpi:Taxes>
+                      <dpi:TaxQ1 currCode="EUR">0</dpi:TaxQ1>
+                      <dpi:TaxQ2 currCode="EUR">12</dpi:TaxQ2>
+                      <dpi:TaxQ3 currCode="EUR">11</dpi:TaxQ3>
+                      <dpi:TaxQ4 currCode="EUR">2</dpi:TaxQ4>
+                    </dpi:Taxes>
+                    <dpi:RentedDays>55</dpi:RentedDays>
+                  </dpi:PropertyListing>
+                  <dpi:PropertyListing>
+                    <dpi:Address>
+                      <dpi:CountryCode>DE</dpi:CountryCode>
+                      <dpi:AddressFree>Hauptstrasse 88, 1833, Dürrröhrsdorf-Dittersbach</dpi:AddressFree>
+                    </dpi:Address>
+                    <dpi:Consideration>
+                      <dpi:ConsQ1 currCode="EUR">0</dpi:ConsQ1>
+                      <dpi:ConsQ2 currCode="EUR">286</dpi:ConsQ2>
+                      <dpi:ConsQ3 currCode="EUR">364</dpi:ConsQ3>
+                      <dpi:ConsQ4 currCode="EUR">65</dpi:ConsQ4>
+                    </dpi:Consideration>
+                    <dpi:NumberOfActivities>
+                      <dpi:NumbQ1>0</dpi:NumbQ1>
+                      <dpi:NumbQ2>14</dpi:NumbQ2>
+                      <dpi:NumbQ3>16</dpi:NumbQ3>
+                      <dpi:NumbQ4>3</dpi:NumbQ4>
+                    </dpi:NumberOfActivities>
+                    <dpi:Fees>
+                      <dpi:FeesQ1 currCode="EUR">0</dpi:FeesQ1>
+                      <dpi:FeesQ2 currCode="EUR">78</dpi:FeesQ2>
+                      <dpi:FeesQ3 currCode="EUR">95</dpi:FeesQ3>
+                      <dpi:FeesQ4 currCode="EUR">17</dpi:FeesQ4>
+                    </dpi:Fees>
+                    <dpi:Taxes>
+                      <dpi:TaxQ1 currCode="EUR">0</dpi:TaxQ1>
+                      <dpi:TaxQ2 currCode="EUR">15</dpi:TaxQ2>
+                      <dpi:TaxQ3 currCode="EUR">18</dpi:TaxQ3>
+                      <dpi:TaxQ4 currCode="EUR">3</dpi:TaxQ4>
+                    </dpi:Taxes>
+                    <dpi:RentedDays>88</dpi:RentedDays>
+                  </dpi:PropertyListing>
+                  <dpi:PropertyListing>
+                    <dpi:Address>
+                      <dpi:CountryCode>DE</dpi:CountryCode>
+                      <dpi:AddressFree>Hauptstrasse 88, 1833, Dürrröhrsdorf-Dittersbach</dpi:AddressFree>
+                    </dpi:Address>
+                    <dpi:Consideration>
+                      <dpi:ConsQ1 currCode="EUR">0</dpi:ConsQ1>
+                      <dpi:ConsQ2 currCode="EUR">34</dpi:ConsQ2>
+                      <dpi:ConsQ3 currCode="EUR">85</dpi:ConsQ3>
+                      <dpi:ConsQ4 currCode="EUR">68</dpi:ConsQ4>
+                    </dpi:Consideration>
+                    <dpi:NumberOfActivities>
+                      <dpi:NumbQ1>0</dpi:NumbQ1>
+                      <dpi:NumbQ2>1</dpi:NumbQ2>
+                      <dpi:NumbQ3>3</dpi:NumbQ3>
+                      <dpi:NumbQ4>3</dpi:NumbQ4>
+                    </dpi:NumberOfActivities>
+                    <dpi:Fees>
+                      <dpi:FeesQ1 currCode="EUR">0</dpi:FeesQ1>
+                      <dpi:FeesQ2 currCode="EUR">8</dpi:FeesQ2>
+                      <dpi:FeesQ3 currCode="EUR">21</dpi:FeesQ3>
+                      <dpi:FeesQ4 currCode="EUR">18</dpi:FeesQ4>
+                    </dpi:Fees>
+                    <dpi:Taxes>
+                      <dpi:TaxQ1 currCode="EUR">0</dpi:TaxQ1>
+                      <dpi:TaxQ2 currCode="EUR">1</dpi:TaxQ2>
+                      <dpi:TaxQ3 currCode="EUR">4</dpi:TaxQ3>
+                      <dpi:TaxQ4 currCode="EUR">3</dpi:TaxQ4>
+                    </dpi:Taxes>
+                    <dpi:RentedDays>18</dpi:RentedDays>
+                  </dpi:PropertyListing>
+                </dpi:ImmovableProperty>
+              </dpi:RelevantActivities>
+              <dpi:DocSpec>
+                <stf:DocTypeIndic>OECD1</stf:DocTypeIndic>
+                <stf:DocRefId>DE2023-2023761ee6e9-efce-4abf-9672-cc0f61cb561b</stf:DocRefId>
+              </dpi:DocSpec>
+            </dpi:ReportableSeller>
+            <dpi:ReportableSeller>
+              <dpi:Identity>
+                <dpi:EntitySeller>
+                  <dpi:Standard>
+                    <dpi:EntSellerID>
+                      <dpi:ResCountryCode>DE</dpi:ResCountryCode>
+                      <dpi:TIN issuedBy="DE">232801E+12</dpi:TIN>
+                      <dpi:Name>Caravanpark am Brahmsee</dpi:Name>
+                      <dpi:Address>
+                        <dpi:CountryCode>DE</dpi:CountryCode>
+                        <dpi:AddressFree>Mühlenstrasse 30, 24631, Langwedel</dpi:AddressFree>
+                      </dpi:Address>
+                    </dpi:EntSellerID>
+                  </dpi:Standard>
+                </dpi:EntitySeller>
+              </dpi:Identity>
+              <dpi:RelevantActivities>
+                <dpi:ImmovableProperty>
+                  <dpi:PropertyListing>
+                    <dpi:Address>
+                      <dpi:CountryCode>DE</dpi:CountryCode>
+                      <dpi:AddressFree>Mühlenstraße 30 A, 24631,  Langwedel</dpi:AddressFree>
+                    </dpi:Address>
+                    <dpi:Consideration>
+                      <dpi:ConsQ1 currCode="EUR">0</dpi:ConsQ1>
+                      <dpi:ConsQ2 currCode="EUR">300</dpi:ConsQ2>
+                      <dpi:ConsQ3 currCode="EUR">526</dpi:ConsQ3>
+                      <dpi:ConsQ4 currCode="EUR">0</dpi:ConsQ4>
+                    </dpi:Consideration>
+                    <dpi:NumberOfActivities>
+                      <dpi:NumbQ1>0</dpi:NumbQ1>
+                      <dpi:NumbQ2>11</dpi:NumbQ2>
+                      <dpi:NumbQ3>21</dpi:NumbQ3>
+                      <dpi:NumbQ4>0</dpi:NumbQ4>
+                    </dpi:NumberOfActivities>
+                    <dpi:Fees>
+                      <dpi:FeesQ1 currCode="EUR">0</dpi:FeesQ1>
+                      <dpi:FeesQ2 currCode="EUR">74</dpi:FeesQ2>
+                      <dpi:FeesQ3 currCode="EUR">133</dpi:FeesQ3>
+                      <dpi:FeesQ4 currCode="EUR">0</dpi:FeesQ4>
+                    </dpi:Fees>
+                    <dpi:Taxes>
+                      <dpi:TaxQ1 currCode="EUR">0</dpi:TaxQ1>
+                      <dpi:TaxQ2 currCode="EUR">14</dpi:TaxQ2>
+                      <dpi:TaxQ3 currCode="EUR">25</dpi:TaxQ3>
+                      <dpi:TaxQ4 currCode="EUR">0</dpi:TaxQ4>
+                    </dpi:Taxes>
+                    <dpi:RentedDays>71</dpi:RentedDays>
+                  </dpi:PropertyListing>
+                  <dpi:PropertyListing>
+                    <dpi:Address>
+                      <dpi:CountryCode>DE</dpi:CountryCode>
+                      <dpi:AddressFree>Gretenberger Str. 4, 23881, Lankau</dpi:AddressFree>
+                    </dpi:Address>
+                    <dpi:Consideration>
+                      <dpi:ConsQ1 currCode="EUR">0</dpi:ConsQ1>
+                      <dpi:ConsQ2 currCode="EUR">135</dpi:ConsQ2>
+                      <dpi:ConsQ3 currCode="EUR">319</dpi:ConsQ3>
+                      <dpi:ConsQ4 currCode="EUR">0</dpi:ConsQ4>
+                    </dpi:Consideration>
+                    <dpi:NumberOfActivities>
+                      <dpi:NumbQ1>0</dpi:NumbQ1>
+                      <dpi:NumbQ2>3</dpi:NumbQ2>
+                      <dpi:NumbQ3>7</dpi:NumbQ3>
+                      <dpi:NumbQ4>0</dpi:NumbQ4>
+                    </dpi:NumberOfActivities>
+                    <dpi:Fees>
+                      <dpi:FeesQ1 currCode="EUR">0</dpi:FeesQ1>
+                      <dpi:FeesQ2 currCode="EUR">29</dpi:FeesQ2>
+                      <dpi:FeesQ3 currCode="EUR">68</dpi:FeesQ3>
+                      <dpi:FeesQ4 currCode="EUR">0</dpi:FeesQ4>
+                    </dpi:Fees>
+                    <dpi:Taxes>
+                      <dpi:TaxQ1 currCode="EUR">0</dpi:TaxQ1>
+                      <dpi:TaxQ2 currCode="EUR">6</dpi:TaxQ2>
+                      <dpi:TaxQ3 currCode="EUR">13</dpi:TaxQ3>
+                      <dpi:TaxQ4 currCode="EUR">0</dpi:TaxQ4>
+                    </dpi:Taxes>
+                    <dpi:RentedDays>27</dpi:RentedDays>
+                  </dpi:PropertyListing>
+                </dpi:ImmovableProperty>
+              </dpi:RelevantActivities>
+              <dpi:DocSpec>
+                <stf:DocTypeIndic>OECD1</stf:DocTypeIndic>
+                <stf:DocRefId>DE2023-2023d605788a-4084-4c30-b4fc-423d0dcefd47</stf:DocRefId>
+              </dpi:DocSpec>
+            </dpi:ReportableSeller>
+            <dpi:ReportableSeller>
+              <dpi:Identity>
+                <dpi:EntitySeller>
+                  <dpi:Standard>
+                    <dpi:EntSellerID>
+                      <dpi:ResCountryCode>DE</dpi:ResCountryCode>
+                      <dpi:TIN unknown="true"/>
+                      <dpi:Name>Berglehof Übernachtungen Andreas Resch</dpi:Name>
+                      <dpi:Address>
+                        <dpi:CountryCode>DE</dpi:CountryCode>
+                        <dpi:AddressFree>Schwarzenbergstraße 2, 79261, Gutach im Breisgau</dpi:AddressFree>
+                      </dpi:Address>
+                    </dpi:EntSellerID>
+                  </dpi:Standard>
+                </dpi:EntitySeller>
+              </dpi:Identity>
+              <dpi:RelevantActivities>
+                <dpi:ImmovableProperty>
+                  <dpi:PropertyListing>
+                    <dpi:Address>
+                      <dpi:CountryCode>DE</dpi:CountryCode>
+                      <dpi:AddressFree>Schwarzenbergstr., 2, 79261, Gutach im Breisgau</dpi:AddressFree>
+                    </dpi:Address>
+                    <dpi:Consideration>
+                      <dpi:ConsQ1 currCode="EUR">0</dpi:ConsQ1>
+                      <dpi:ConsQ2 currCode="EUR">284</dpi:ConsQ2>
+                      <dpi:ConsQ3 currCode="EUR">229</dpi:ConsQ3>
+                      <dpi:ConsQ4 currCode="EUR">69</dpi:ConsQ4>
+                    </dpi:Consideration>
+                    <dpi:NumberOfActivities>
+                      <dpi:NumbQ1>0</dpi:NumbQ1>
+                      <dpi:NumbQ2>9</dpi:NumbQ2>
+                      <dpi:NumbQ3>7</dpi:NumbQ3>
+                      <dpi:NumbQ4>2</dpi:NumbQ4>
+                    </dpi:NumberOfActivities>
+                    <dpi:Fees>
+                      <dpi:FeesQ1 currCode="EUR">0</dpi:FeesQ1>
+                      <dpi:FeesQ2 currCode="EUR">67</dpi:FeesQ2>
+                      <dpi:FeesQ3 currCode="EUR">53</dpi:FeesQ3>
+                      <dpi:FeesQ4 currCode="EUR">16</dpi:FeesQ4>
+                    </dpi:Fees>
+                    <dpi:Taxes>
+                      <dpi:TaxQ1 currCode="EUR">0</dpi:TaxQ1>
+                      <dpi:TaxQ2 currCode="EUR">13</dpi:TaxQ2>
+                      <dpi:TaxQ3 currCode="EUR">10</dpi:TaxQ3>
+                      <dpi:TaxQ4 currCode="EUR">3</dpi:TaxQ4>
+                    </dpi:Taxes>
+                    <dpi:RentedDays>43</dpi:RentedDays>
+                  </dpi:PropertyListing>
+                  <dpi:PropertyListing>
+                    <dpi:Address>
+                      <dpi:CountryCode>DE</dpi:CountryCode>
+                      <dpi:AddressFree>Schwarzenbergstr., 2, 79261, Gutach im Breisgau</dpi:AddressFree>
+                    </dpi:Address>
+                    <dpi:Consideration>
+                      <dpi:ConsQ1 currCode="EUR">0</dpi:ConsQ1>
+                      <dpi:ConsQ2 currCode="EUR">507</dpi:ConsQ2>
+                      <dpi:ConsQ3 currCode="EUR">706</dpi:ConsQ3>
+                      <dpi:ConsQ4 currCode="EUR">186</dpi:ConsQ4>
+                    </dpi:Consideration>
+                    <dpi:NumberOfActivities>
+                      <dpi:NumbQ1>0</dpi:NumbQ1>
+                      <dpi:NumbQ2>15</dpi:NumbQ2>
+                      <dpi:NumbQ3>18</dpi:NumbQ3>
+                      <dpi:NumbQ4>5</dpi:NumbQ4>
+                    </dpi:NumberOfActivities>
+                    <dpi:Fees>
+                      <dpi:FeesQ1 currCode="EUR">0</dpi:FeesQ1>
+                      <dpi:FeesQ2 currCode="EUR">117</dpi:FeesQ2>
+                      <dpi:FeesQ3 currCode="EUR">156</dpi:FeesQ3>
+                      <dpi:FeesQ4 currCode="EUR">42</dpi:FeesQ4>
+                    </dpi:Fees>
+                    <dpi:Taxes>
+                      <dpi:TaxQ1 currCode="EUR">0</dpi:TaxQ1>
+                      <dpi:TaxQ2 currCode="EUR">22</dpi:TaxQ2>
+                      <dpi:TaxQ3 currCode="EUR">30</dpi:TaxQ3>
+                      <dpi:TaxQ4 currCode="EUR">8</dpi:TaxQ4>
+                    </dpi:Taxes>
+                    <dpi:RentedDays>89</dpi:RentedDays>
+                  </dpi:PropertyListing>
+                </dpi:ImmovableProperty>
+              </dpi:RelevantActivities>
+              <dpi:DocSpec>
+                <stf:DocTypeIndic>OECD1</stf:DocTypeIndic>
+                <stf:DocRefId>DE2023-202395fda5a9-1c1b-4a81-ac62-96128d61dc2a</stf:DocRefId>
+              </dpi:DocSpec>
+            </dpi:ReportableSeller>
+            <dpi:ReportableSeller>
+              <dpi:Identity>
+                <dpi:EntitySeller>
+                  <dpi:Standard>
+                    <dpi:EntSellerID>
+                      <dpi:ResCountryCode>DE</dpi:ResCountryCode>
+                      <dpi:TIN issuedBy="DE">915602E+12</dpi:TIN>
+                      <dpi:VAT>319191184</dpi:VAT>
+                      <dpi:Name>Franz Daxlberger weyererhof</dpi:Name>
+                      <dpi:Address>
+                        <dpi:CountryCode>DE</dpi:CountryCode>
+                        <dpi:AddressFree>Kohlgrub 4 Kohlgrub 4, 83122, Samerberg</dpi:AddressFree>
+                      </dpi:Address>
+                    </dpi:EntSellerID>
+                  </dpi:Standard>
+                </dpi:EntitySeller>
+              </dpi:Identity>
+              <dpi:RelevantActivities>
+                <dpi:ImmovableProperty>
+                  <dpi:PropertyListing>
+                    <dpi:Address>
+                      <dpi:CountryCode>DE</dpi:CountryCode>
+                      <dpi:AddressFree>Kohlgrub 4, 83122, Samerberg</dpi:AddressFree>
+                    </dpi:Address>
+                    <dpi:Consideration>
+                      <dpi:ConsQ1 currCode="EUR">0</dpi:ConsQ1>
+                      <dpi:ConsQ2 currCode="EUR">237</dpi:ConsQ2>
+                      <dpi:ConsQ3 currCode="EUR">62</dpi:ConsQ3>
+                      <dpi:ConsQ4 currCode="EUR">0</dpi:ConsQ4>
+                    </dpi:Consideration>
+                    <dpi:NumberOfActivities>
+                      <dpi:NumbQ1>0</dpi:NumbQ1>
+                      <dpi:NumbQ2>6</dpi:NumbQ2>
+                      <dpi:NumbQ3>2</dpi:NumbQ3>
+                      <dpi:NumbQ4>0</dpi:NumbQ4>
+                    </dpi:NumberOfActivities>
+                    <dpi:Fees>
+                      <dpi:FeesQ1 currCode="EUR">0</dpi:FeesQ1>
+                      <dpi:FeesQ2 currCode="EUR">52</dpi:FeesQ2>
+                      <dpi:FeesQ3 currCode="EUR">15</dpi:FeesQ3>
+                      <dpi:FeesQ4 currCode="EUR">0</dpi:FeesQ4>
+                    </dpi:Fees>
+                    <dpi:Taxes>
+                      <dpi:TaxQ1 currCode="EUR">0</dpi:TaxQ1>
+                      <dpi:TaxQ2 currCode="EUR">10</dpi:TaxQ2>
+                      <dpi:TaxQ3 currCode="EUR">3</dpi:TaxQ3>
+                      <dpi:TaxQ4 currCode="EUR">0</dpi:TaxQ4>
+                    </dpi:Taxes>
+                    <dpi:RentedDays>17</dpi:RentedDays>
+                  </dpi:PropertyListing>
+                  <dpi:PropertyListing>
+                    <dpi:Address>
+                      <dpi:CountryCode>DE</dpi:CountryCode>
+                      <dpi:AddressFree>Kohlgrub 4, 83122, Samerberg</dpi:AddressFree>
+                    </dpi:Address>
+                    <dpi:Consideration>
+                      <dpi:ConsQ1 currCode="EUR">192</dpi:ConsQ1>
+                      <dpi:ConsQ2 currCode="EUR">753</dpi:ConsQ2>
+                      <dpi:ConsQ3 currCode="EUR">1104</dpi:ConsQ3>
+                      <dpi:ConsQ4 currCode="EUR">0</dpi:ConsQ4>
+                    </dpi:Consideration>
+                    <dpi:NumberOfActivities>
+                      <dpi:NumbQ1>3</dpi:NumbQ1>
+                      <dpi:NumbQ2>11</dpi:NumbQ2>
+                      <dpi:NumbQ3>16</dpi:NumbQ3>
+                      <dpi:NumbQ4>0</dpi:NumbQ4>
+                    </dpi:NumberOfActivities>
+                    <dpi:Fees>
+                      <dpi:FeesQ1 currCode="EUR">39</dpi:FeesQ1>
+                      <dpi:FeesQ2 currCode="EUR">150</dpi:FeesQ2>
+                      <dpi:FeesQ3 currCode="EUR">219</dpi:FeesQ3>
+                      <dpi:FeesQ4 currCode="EUR">0</dpi:FeesQ4>
+                    </dpi:Fees>
+                    <dpi:Taxes>
+                      <dpi:TaxQ1 currCode="EUR">7</dpi:TaxQ1>
+                      <dpi:TaxQ2 currCode="EUR">28</dpi:TaxQ2>
+                      <dpi:TaxQ3 currCode="EUR">42</dpi:TaxQ3>
+                      <dpi:TaxQ4 currCode="EUR">0</dpi:TaxQ4>
+                    </dpi:Taxes>
+                    <dpi:RentedDays>74</dpi:RentedDays>
+                  </dpi:PropertyListing>
+                </dpi:ImmovableProperty>
+              </dpi:RelevantActivities>
+              <dpi:DocSpec>
+                <stf:DocTypeIndic>OECD1</stf:DocTypeIndic>
+                <stf:DocRefId>DE2023-20233e48a651-2d62-43a4-9404-0d580d72473b</stf:DocRefId>
+              </dpi:DocSpec>
+            </dpi:ReportableSeller>
+            <dpi:ReportableSeller>
+              <dpi:Identity>
+                <dpi:EntitySeller>
+                  <dpi:Standard>
+                    <dpi:EntSellerID>
+                      <dpi:ResCountryCode>DE</dpi:ResCountryCode>
+                      <dpi:TIN issuedBy="DE">63809107457</dpi:TIN>
+                      <dpi:Name>Weingut Noll</dpi:Name>
+                      <dpi:Address>
+                        <dpi:CountryCode>DE</dpi:CountryCode>
+                        <dpi:AddressFree>Kirchstraße 20a, 79426, Buggingen</dpi:AddressFree>
+                      </dpi:Address>
+                    </dpi:EntSellerID>
+                  </dpi:Standard>
+                </dpi:EntitySeller>
+              </dpi:Identity>
+              <dpi:RelevantActivities>
+                <dpi:ImmovableProperty>
+                  <dpi:PropertyListing>
+                    <dpi:Address>
+                      <dpi:CountryCode>DE</dpi:CountryCode>
+                      <dpi:AddressFree>Kirchstraße 20a, 79426, Buggingen</dpi:AddressFree>
+                    </dpi:Address>
+                    <dpi:Consideration>
+                      <dpi:ConsQ1 currCode="EUR">66</dpi:ConsQ1>
+                      <dpi:ConsQ2 currCode="EUR">506</dpi:ConsQ2>
+                      <dpi:ConsQ3 currCode="EUR">638</dpi:ConsQ3>
+                      <dpi:ConsQ4 currCode="EUR">66</dpi:ConsQ4>
+                    </dpi:Consideration>
+                    <dpi:NumberOfActivities>
+                      <dpi:NumbQ1>3</dpi:NumbQ1>
+                      <dpi:NumbQ2>23</dpi:NumbQ2>
+                      <dpi:NumbQ3>29</dpi:NumbQ3>
+                      <dpi:NumbQ4>3</dpi:NumbQ4>
+                    </dpi:NumberOfActivities>
+                    <dpi:Fees>
+                      <dpi:FeesQ1 currCode="EUR">17</dpi:FeesQ1>
+                      <dpi:FeesQ2 currCode="EUR">133</dpi:FeesQ2>
+                      <dpi:FeesQ3 currCode="EUR">168</dpi:FeesQ3>
+                      <dpi:FeesQ4 currCode="EUR">17</dpi:FeesQ4>
+                    </dpi:Fees>
+                    <dpi:Taxes>
+                      <dpi:TaxQ1 currCode="EUR">3</dpi:TaxQ1>
+                      <dpi:TaxQ2 currCode="EUR">25</dpi:TaxQ2>
+                      <dpi:TaxQ3 currCode="EUR">32</dpi:TaxQ3>
+                      <dpi:TaxQ4 currCode="EUR">3</dpi:TaxQ4>
+                    </dpi:Taxes>
+                    <dpi:RentedDays>116</dpi:RentedDays>
+                  </dpi:PropertyListing>
+                  <dpi:PropertyListing>
+                    <dpi:Address>
+                      <dpi:CountryCode>DE</dpi:CountryCode>
+                      <dpi:AddressFree>Kirchstraße 20a, 79426, Buggingen</dpi:AddressFree>
+                    </dpi:Address>
+                    <dpi:Consideration>
+                      <dpi:ConsQ1 currCode="EUR">0</dpi:ConsQ1>
+                      <dpi:ConsQ2 currCode="EUR">0</dpi:ConsQ2>
+                      <dpi:ConsQ3 currCode="EUR">198</dpi:ConsQ3>
+                      <dpi:ConsQ4 currCode="EUR">176</dpi:ConsQ4>
+                    </dpi:Consideration>
+                    <dpi:NumberOfActivities>
+                      <dpi:NumbQ1>0</dpi:NumbQ1>
+                      <dpi:NumbQ2>0</dpi:NumbQ2>
+                      <dpi:NumbQ3>9</dpi:NumbQ3>
+                      <dpi:NumbQ4>8</dpi:NumbQ4>
+                    </dpi:NumberOfActivities>
+                    <dpi:Fees>
+                      <dpi:FeesQ1 currCode="EUR">0</dpi:FeesQ1>
+                      <dpi:FeesQ2 currCode="EUR">0</dpi:FeesQ2>
+                      <dpi:FeesQ3 currCode="EUR">52</dpi:FeesQ3>
+                      <dpi:FeesQ4 currCode="EUR">46</dpi:FeesQ4>
+                    </dpi:Fees>
+                    <dpi:Taxes>
+                      <dpi:TaxQ1 currCode="EUR">0</dpi:TaxQ1>
+                      <dpi:TaxQ2 currCode="EUR">0</dpi:TaxQ2>
+                      <dpi:TaxQ3 currCode="EUR">10</dpi:TaxQ3>
+                      <dpi:TaxQ4 currCode="EUR">9</dpi:TaxQ4>
+                    </dpi:Taxes>
+                    <dpi:RentedDays>34</dpi:RentedDays>
+                  </dpi:PropertyListing>
+                </dpi:ImmovableProperty>
+              </dpi:RelevantActivities>
+              <dpi:DocSpec>
+                <stf:DocTypeIndic>OECD1</stf:DocTypeIndic>
+                <stf:DocRefId>DE2023-20235ec92b48-33b5-4a99-bf60-70bceee11e43</stf:DocRefId>
+              </dpi:DocSpec>
+            </dpi:ReportableSeller>
+            <dpi:ReportableSeller>
+              <dpi:Identity>
+                <dpi:EntitySeller>
+                  <dpi:Standard>
+                    <dpi:EntSellerID>
+                      <dpi:ResCountryCode>PT</dpi:ResCountryCode>
+                      <dpi:TIN unknown="true"/>
+                      <dpi:Name>lucky charm, lda</dpi:Name>
+                      <dpi:Address>
+                        <dpi:CountryCode>PT</dpi:CountryCode>
+                        <dpi:AddressFree>Horta do rio, casa da horta- carrapateira S/N, 8670-230, Carrapateira</dpi:AddressFree>
+                      </dpi:Address>
+                    </dpi:EntSellerID>
+                  </dpi:Standard>
+                </dpi:EntitySeller>
+              </dpi:Identity>
+              <dpi:RelevantActivities>
+                <dpi:ImmovableProperty>
+                  <dpi:PropertyListing>
+                    <dpi:Address>
+                      <dpi:CountryCode>PT</dpi:CountryCode>
+                      <dpi:AddressFree>Horta Do Rio-casa Da Horta, 8670-230, Carrapateira</dpi:AddressFree>
+                    </dpi:Address>
+                    <dpi:Consideration>
+                      <dpi:ConsQ1 currCode="EUR">65</dpi:ConsQ1>
+                      <dpi:ConsQ2 currCode="EUR">510</dpi:ConsQ2>
+                      <dpi:ConsQ3 currCode="EUR">1005</dpi:ConsQ3>
+                      <dpi:ConsQ4 currCode="EUR">0</dpi:ConsQ4>
+                    </dpi:Consideration>
+                    <dpi:NumberOfActivities>
+                      <dpi:NumbQ1>3</dpi:NumbQ1>
+                      <dpi:NumbQ2>25</dpi:NumbQ2>
+                      <dpi:NumbQ3>50</dpi:NumbQ3>
+                      <dpi:NumbQ4>0</dpi:NumbQ4>
+                    </dpi:NumberOfActivities>
+                    <dpi:Fees>
+                      <dpi:FeesQ1 currCode="EUR">17</dpi:FeesQ1>
+                      <dpi:FeesQ2 currCode="EUR">134</dpi:FeesQ2>
+                      <dpi:FeesQ3 currCode="EUR">265</dpi:FeesQ3>
+                      <dpi:FeesQ4 currCode="EUR">0</dpi:FeesQ4>
+                    </dpi:Fees>
+                    <dpi:Taxes>
+                      <dpi:TaxQ1 currCode="EUR">4</dpi:TaxQ1>
+                      <dpi:TaxQ2 currCode="EUR">31</dpi:TaxQ2>
+                      <dpi:TaxQ3 currCode="EUR">61</dpi:TaxQ3>
+                      <dpi:TaxQ4 currCode="EUR">0</dpi:TaxQ4>
+                    </dpi:Taxes>
+                    <dpi:RentedDays>178</dpi:RentedDays>
+                  </dpi:PropertyListing>
+                  <dpi:PropertyListing>
+                    <dpi:Address>
+                      <dpi:CountryCode>PT</dpi:CountryCode>
+                      <dpi:AddressFree>Horta Do Rio-casa Da Horta, 8670-230, Carrapateira</dpi:AddressFree>
+                    </dpi:Address>
+                    <dpi:Consideration>
+                      <dpi:ConsQ1 currCode="EUR">0</dpi:ConsQ1>
+                      <dpi:ConsQ2 currCode="EUR">0</dpi:ConsQ2>
+                      <dpi:ConsQ3 currCode="EUR">408</dpi:ConsQ3>
+                      <dpi:ConsQ4 currCode="EUR">15</dpi:ConsQ4>
+                    </dpi:Consideration>
+                    <dpi:NumberOfActivities>
+                      <dpi:NumbQ1>0</dpi:NumbQ1>
+                      <dpi:NumbQ2>0</dpi:NumbQ2>
+                      <dpi:NumbQ3>20</dpi:NumbQ3>
+                      <dpi:NumbQ4>1</dpi:NumbQ4>
+                    </dpi:NumberOfActivities>
+                    <dpi:Fees>
+                      <dpi:FeesQ1 currCode="EUR">0</dpi:FeesQ1>
+                      <dpi:FeesQ2 currCode="EUR">0</dpi:FeesQ2>
+                      <dpi:FeesQ3 currCode="EUR">107</dpi:FeesQ3>
+                      <dpi:FeesQ4 currCode="EUR">4</dpi:FeesQ4>
+                    </dpi:Fees>
+                    <dpi:Taxes>
+                      <dpi:TaxQ1 currCode="EUR">0</dpi:TaxQ1>
+                      <dpi:TaxQ2 currCode="EUR">0</dpi:TaxQ2>
+                      <dpi:TaxQ3 currCode="EUR">25</dpi:TaxQ3>
+                      <dpi:TaxQ4 currCode="EUR">1</dpi:TaxQ4>
+                    </dpi:Taxes>
+                    <dpi:RentedDays>46</dpi:RentedDays>
+                  </dpi:PropertyListing>
+                </dpi:ImmovableProperty>
+              </dpi:RelevantActivities>
+              <dpi:DocSpec>
+                <stf:DocTypeIndic>OECD1</stf:DocTypeIndic>
+                <stf:DocRefId>DE2023-20233e73a471-1faa-4d08-bbc7-a3339e19dd79</stf:DocRefId>
+              </dpi:DocSpec>
+            </dpi:ReportableSeller>
+            <dpi:ReportableSeller>
+              <dpi:Identity>
+                <dpi:EntitySeller>
+                  <dpi:Standard>
+                    <dpi:EntSellerID>
+                      <dpi:ResCountryCode>DE</dpi:ResCountryCode>
+                      <dpi:TIN unknown="true"/>
+                      <dpi:Name>Sandbühlhof</dpi:Name>
+                      <dpi:Address>
+                        <dpi:CountryCode>DE</dpi:CountryCode>
+                        <dpi:AddressFree>Sandbühl 6/2, 88214, Ravensburg</dpi:AddressFree>
+                      </dpi:Address>
+                    </dpi:EntSellerID>
+                  </dpi:Standard>
+                </dpi:EntitySeller>
+              </dpi:Identity>
+              <dpi:RelevantActivities>
+                <dpi:ImmovableProperty>
+                  <dpi:PropertyListing>
+                    <dpi:Address>
+                      <dpi:CountryCode>DE</dpi:CountryCode>
+                      <dpi:AddressFree>Sandbühl 6/2, 88214, Ravensburg</dpi:AddressFree>
+                    </dpi:Address>
+                    <dpi:Consideration>
+                      <dpi:ConsQ1 currCode="EUR">0</dpi:ConsQ1>
+                      <dpi:ConsQ2 currCode="EUR">60</dpi:ConsQ2>
+                      <dpi:ConsQ3 currCode="EUR">0</dpi:ConsQ3>
+                      <dpi:ConsQ4 currCode="EUR">0</dpi:ConsQ4>
+                    </dpi:Consideration>
+                    <dpi:NumberOfActivities>
+                      <dpi:NumbQ1>0</dpi:NumbQ1>
+                      <dpi:NumbQ2>1</dpi:NumbQ2>
+                      <dpi:NumbQ3>0</dpi:NumbQ3>
+                      <dpi:NumbQ4>0</dpi:NumbQ4>
+                    </dpi:NumberOfActivities>
+                    <dpi:Fees>
+                      <dpi:FeesQ1 currCode="EUR">0</dpi:FeesQ1>
+                      <dpi:FeesQ2 currCode="EUR">12</dpi:FeesQ2>
+                      <dpi:FeesQ3 currCode="EUR">0</dpi:FeesQ3>
+                      <dpi:FeesQ4 currCode="EUR">0</dpi:FeesQ4>
+                    </dpi:Fees>
+                    <dpi:Taxes>
+                      <dpi:TaxQ1 currCode="EUR">0</dpi:TaxQ1>
+                      <dpi:TaxQ2 currCode="EUR">2</dpi:TaxQ2>
+                      <dpi:TaxQ3 currCode="EUR">0</dpi:TaxQ3>
+                      <dpi:TaxQ4 currCode="EUR">0</dpi:TaxQ4>
+                    </dpi:Taxes>
+                    <dpi:RentedDays>2</dpi:RentedDays>
+                  </dpi:PropertyListing>
+                  <dpi:PropertyListing>
+                    <dpi:Address>
+                      <dpi:CountryCode>DE</dpi:CountryCode>
+                      <dpi:AddressFree>Sandbühl 6/2, 88214, Ravensburg</dpi:AddressFree>
+                    </dpi:Address>
+                    <dpi:Consideration>
+                      <dpi:ConsQ1 currCode="EUR">0</dpi:ConsQ1>
+                      <dpi:ConsQ2 currCode="EUR">286</dpi:ConsQ2>
+                      <dpi:ConsQ3 currCode="EUR">935</dpi:ConsQ3>
+                      <dpi:ConsQ4 currCode="EUR">0</dpi:ConsQ4>
+                    </dpi:Consideration>
+                    <dpi:NumberOfActivities>
+                      <dpi:NumbQ1>0</dpi:NumbQ1>
+                      <dpi:NumbQ2>8</dpi:NumbQ2>
+                      <dpi:NumbQ3>22</dpi:NumbQ3>
+                      <dpi:NumbQ4>0</dpi:NumbQ4>
+                    </dpi:NumberOfActivities>
+                    <dpi:Fees>
+                      <dpi:FeesQ1 currCode="EUR">0</dpi:FeesQ1>
+                      <dpi:FeesQ2 currCode="EUR">65</dpi:FeesQ2>
+                      <dpi:FeesQ3 currCode="EUR">203</dpi:FeesQ3>
+                      <dpi:FeesQ4 currCode="EUR">0</dpi:FeesQ4>
+                    </dpi:Fees>
+                    <dpi:Taxes>
+                      <dpi:TaxQ1 currCode="EUR">0</dpi:TaxQ1>
+                      <dpi:TaxQ2 currCode="EUR">12</dpi:TaxQ2>
+                      <dpi:TaxQ3 currCode="EUR">39</dpi:TaxQ3>
+                      <dpi:TaxQ4 currCode="EUR">0</dpi:TaxQ4>
+                    </dpi:Taxes>
+                    <dpi:RentedDays>72</dpi:RentedDays>
+                  </dpi:PropertyListing>
+                  <dpi:PropertyListing>
+                    <dpi:Address>
+                      <dpi:CountryCode>DE</dpi:CountryCode>
+                      <dpi:AddressFree>Sandbühl 6, 88214, Ravensburg</dpi:AddressFree>
+                    </dpi:Address>
+                    <dpi:Consideration>
+                      <dpi:ConsQ1 currCode="EUR">0</dpi:ConsQ1>
+                      <dpi:ConsQ2 currCode="EUR">143</dpi:ConsQ2>
+                      <dpi:ConsQ3 currCode="EUR">773</dpi:ConsQ3>
+                      <dpi:ConsQ4 currCode="EUR">56</dpi:ConsQ4>
+                    </dpi:Consideration>
+                    <dpi:NumberOfActivities>
+                      <dpi:NumbQ1>0</dpi:NumbQ1>
+                      <dpi:NumbQ2>3</dpi:NumbQ2>
+                      <dpi:NumbQ3>11</dpi:NumbQ3>
+                      <dpi:NumbQ4>1</dpi:NumbQ4>
+                    </dpi:NumberOfActivities>
+                    <dpi:Fees>
+                      <dpi:FeesQ1 currCode="EUR">0</dpi:FeesQ1>
+                      <dpi:FeesQ2 currCode="EUR">30</dpi:FeesQ2>
+                      <dpi:FeesQ3 currCode="EUR">153</dpi:FeesQ3>
+                      <dpi:FeesQ4 currCode="EUR">12</dpi:FeesQ4>
+                    </dpi:Fees>
+                    <dpi:Taxes>
+                      <dpi:TaxQ1 currCode="EUR">0</dpi:TaxQ1>
+                      <dpi:TaxQ2 currCode="EUR">6</dpi:TaxQ2>
+                      <dpi:TaxQ3 currCode="EUR">29</dpi:TaxQ3>
+                      <dpi:TaxQ4 currCode="EUR">2</dpi:TaxQ4>
+                    </dpi:Taxes>
+                    <dpi:RentedDays>48</dpi:RentedDays>
+                  </dpi:PropertyListing>
+                  <dpi:PropertyListing>
+                    <dpi:Address>
+                      <dpi:CountryCode>DE</dpi:CountryCode>
+                      <dpi:AddressFree>Sandbühl 6/2, 88214, Ravensburg</dpi:AddressFree>
+                    </dpi:Address>
+                    <dpi:Consideration>
+                      <dpi:ConsQ1 currCode="EUR">0</dpi:ConsQ1>
+                      <dpi:ConsQ2 currCode="EUR">0</dpi:ConsQ2>
+                      <dpi:ConsQ3 currCode="EUR">59</dpi:ConsQ3>
+                      <dpi:ConsQ4 currCode="EUR">31</dpi:ConsQ4>
+                    </dpi:Consideration>
+                    <dpi:NumberOfActivities>
+                      <dpi:NumbQ1>0</dpi:NumbQ1>
+                      <dpi:NumbQ2>0</dpi:NumbQ2>
+                      <dpi:NumbQ3>2</dpi:NumbQ3>
+                      <dpi:NumbQ4>1</dpi:NumbQ4>
+                    </dpi:NumberOfActivities>
+                    <dpi:Fees>
+                      <dpi:FeesQ1 currCode="EUR">0</dpi:FeesQ1>
+                      <dpi:FeesQ2 currCode="EUR">0</dpi:FeesQ2>
+                      <dpi:FeesQ3 currCode="EUR">14</dpi:FeesQ3>
+                      <dpi:FeesQ4 currCode="EUR">7</dpi:FeesQ4>
+                    </dpi:Fees>
+                    <dpi:Taxes>
+                      <dpi:TaxQ1 currCode="EUR">0</dpi:TaxQ1>
+                      <dpi:TaxQ2 currCode="EUR">0</dpi:TaxQ2>
+                      <dpi:TaxQ3 currCode="EUR">3</dpi:TaxQ3>
+                      <dpi:TaxQ4 currCode="EUR">1</dpi:TaxQ4>
+                    </dpi:Taxes>
+                    <dpi:RentedDays>6</dpi:RentedDays>
+                  </dpi:PropertyListing>
+                </dpi:ImmovableProperty>
+              </dpi:RelevantActivities>
+              <dpi:DocSpec>
+                <stf:DocTypeIndic>OECD1</stf:DocTypeIndic>
+                <stf:DocRefId>DE2023-20232fdd7a8f-b9bf-4039-b5b6-a5c6931efe28</stf:DocRefId>
+              </dpi:DocSpec>
+            </dpi:ReportableSeller>
+            <dpi:ReportableSeller>
+              <dpi:Identity>
+                <dpi:EntitySeller>
+                  <dpi:Standard>
+                    <dpi:EntSellerID>
+                      <dpi:ResCountryCode>IT</dpi:ResCountryCode>
+                      <dpi:TIN issuedBy="IT">PZZSFN70B26C101B</dpi:TIN>
+                      <dpi:Name>Agricamping Poggio ai Pini</dpi:Name>
+                      <dpi:Address>
+                        <dpi:CountryCode>IT</dpi:CountryCode>
+                        <dpi:AddressFree>Sp50 Km1 di San Donnino 1, 50052, Certaldo</dpi:AddressFree>
+                      </dpi:Address>
+                    </dpi:EntSellerID>
+                  </dpi:Standard>
+                </dpi:EntitySeller>
+              </dpi:Identity>
+              <dpi:RelevantActivities>
+                <dpi:ImmovableProperty>
+                  <dpi:PropertyListing>
+                    <dpi:Address>
+                      <dpi:CountryCode>IT</dpi:CountryCode>
+                      <dpi:AddressFree>Sp50 Km1 di San Donnino, 50052, Certaldo</dpi:AddressFree>
+                    </dpi:Address>
+                    <dpi:Consideration>
+                      <dpi:ConsQ1 currCode="EUR">0</dpi:ConsQ1>
+                      <dpi:ConsQ2 currCode="EUR">810</dpi:ConsQ2>
+                      <dpi:ConsQ3 currCode="EUR">1498</dpi:ConsQ3>
+                      <dpi:ConsQ4 currCode="EUR">288</dpi:ConsQ4>
+                    </dpi:Consideration>
+                    <dpi:NumberOfActivities>
+                      <dpi:NumbQ1>0</dpi:NumbQ1>
+                      <dpi:NumbQ2>21</dpi:NumbQ2>
+                      <dpi:NumbQ3>35</dpi:NumbQ3>
+                      <dpi:NumbQ4>4</dpi:NumbQ4>
+                    </dpi:NumberOfActivities>
+                    <dpi:Fees>
+                      <dpi:FeesQ1 currCode="EUR">0</dpi:FeesQ1>
+                      <dpi:FeesQ2 currCode="EUR">215</dpi:FeesQ2>
+                      <dpi:FeesQ3 currCode="EUR">387</dpi:FeesQ3>
+                      <dpi:FeesQ4 currCode="EUR">68</dpi:FeesQ4>
+                    </dpi:Fees>
+                    <dpi:Taxes>
+                      <dpi:TaxQ1 currCode="EUR">0</dpi:TaxQ1>
+                      <dpi:TaxQ2 currCode="EUR">0</dpi:TaxQ2>
+                      <dpi:TaxQ3 currCode="EUR">0</dpi:TaxQ3>
+                      <dpi:TaxQ4 currCode="EUR">0</dpi:TaxQ4>
+                    </dpi:Taxes>
+                    <dpi:RentedDays>145</dpi:RentedDays>
+                  </dpi:PropertyListing>
+                  <dpi:PropertyListing>
+                    <dpi:Address>
+                      <dpi:CountryCode>IT</dpi:CountryCode>
+                      <dpi:AddressFree>loc aia murata sp 50 km1, 50052, certaldo</dpi:AddressFree>
+                    </dpi:Address>
+                    <dpi:Consideration>
+                      <dpi:ConsQ1 currCode="EUR">0</dpi:ConsQ1>
+                      <dpi:ConsQ2 currCode="EUR">0</dpi:ConsQ2>
+                      <dpi:ConsQ3 currCode="EUR">90</dpi:ConsQ3>
+                      <dpi:ConsQ4 currCode="EUR">0</dpi:ConsQ4>
+                    </dpi:Consideration>
+                    <dpi:NumberOfActivities>
+                      <dpi:NumbQ1>0</dpi:NumbQ1>
+                      <dpi:NumbQ2>0</dpi:NumbQ2>
+                      <dpi:NumbQ3>3</dpi:NumbQ3>
+                      <dpi:NumbQ4>0</dpi:NumbQ4>
+                    </dpi:NumberOfActivities>
+                    <dpi:Fees>
+                      <dpi:FeesQ1 currCode="EUR">0</dpi:FeesQ1>
+                      <dpi:FeesQ2 currCode="EUR">0</dpi:FeesQ2>
+                      <dpi:FeesQ3 currCode="EUR">26</dpi:FeesQ3>
+                      <dpi:FeesQ4 currCode="EUR">0</dpi:FeesQ4>
+                    </dpi:Fees>
+                    <dpi:Taxes>
+                      <dpi:TaxQ1 currCode="EUR">0</dpi:TaxQ1>
+                      <dpi:TaxQ2 currCode="EUR">0</dpi:TaxQ2>
+                      <dpi:TaxQ3 currCode="EUR">0</dpi:TaxQ3>
+                      <dpi:TaxQ4 currCode="EUR">0</dpi:TaxQ4>
+                    </dpi:Taxes>
+                    <dpi:RentedDays>6</dpi:RentedDays>
+                  </dpi:PropertyListing>
+                </dpi:ImmovableProperty>
+              </dpi:RelevantActivities>
+              <dpi:DocSpec>
+                <stf:DocTypeIndic>OECD1</stf:DocTypeIndic>
+                <stf:DocRefId>DE2023-2023971f6b85-6de7-47f5-a4a2-b3cb9639c91d</stf:DocRefId>
+              </dpi:DocSpec>
+            </dpi:ReportableSeller>
+            <dpi:ReportableSeller>
+              <dpi:Identity>
+                <dpi:EntitySeller>
+                  <dpi:Standard>
+                    <dpi:EntSellerID>
+                      <dpi:ResCountryCode>FR</dpi:ResCountryCode>
+                      <dpi:TIN unknown="true"/>
+                      <dpi:Name>Boucreux</dpi:Name>
+                      <dpi:Address>
+                        <dpi:CountryCode>FR</dpi:CountryCode>
+                        <dpi:AddressFree>1 , 85450, La Taillée</dpi:AddressFree>
+                      </dpi:Address>
+                    </dpi:EntSellerID>
+                  </dpi:Standard>
+                </dpi:EntitySeller>
+              </dpi:Identity>
+              <dpi:RelevantActivities>
+                <dpi:ImmovableProperty>
+                  <dpi:PropertyListing>
+                    <dpi:Address>
+                      <dpi:CountryCode>FR</dpi:CountryCode>
+                      <dpi:AddressFree>Bois Reine, 85450, La Taillée</dpi:AddressFree>
+                    </dpi:Address>
+                    <dpi:Consideration>
+                      <dpi:ConsQ1 currCode="EUR">16</dpi:ConsQ1>
+                      <dpi:ConsQ2 currCode="EUR">128</dpi:ConsQ2>
+                      <dpi:ConsQ3 currCode="EUR">464</dpi:ConsQ3>
+                      <dpi:ConsQ4 currCode="EUR">0</dpi:ConsQ4>
+                    </dpi:Consideration>
+                    <dpi:NumberOfActivities>
+                      <dpi:NumbQ1>1</dpi:NumbQ1>
+                      <dpi:NumbQ2>7</dpi:NumbQ2>
+                      <dpi:NumbQ3>16</dpi:NumbQ3>
+                      <dpi:NumbQ4>0</dpi:NumbQ4>
+                    </dpi:NumberOfActivities>
+                    <dpi:Fees>
+                      <dpi:FeesQ1 currCode="EUR">5</dpi:FeesQ1>
+                      <dpi:FeesQ2 currCode="EUR">36</dpi:FeesQ2>
+                      <dpi:FeesQ3 currCode="EUR">111</dpi:FeesQ3>
+                      <dpi:FeesQ4 currCode="EUR">0</dpi:FeesQ4>
+                    </dpi:Fees>
+                    <dpi:Taxes>
+                      <dpi:TaxQ1 currCode="EUR">1</dpi:TaxQ1>
+                      <dpi:TaxQ2 currCode="EUR">7</dpi:TaxQ2>
+                      <dpi:TaxQ3 currCode="EUR">22</dpi:TaxQ3>
+                      <dpi:TaxQ4 currCode="EUR">0</dpi:TaxQ4>
+                    </dpi:Taxes>
+                    <dpi:RentedDays>62</dpi:RentedDays>
+                  </dpi:PropertyListing>
+                  <dpi:PropertyListing>
+                    <dpi:Address>
+                      <dpi:CountryCode>FR</dpi:CountryCode>
+                      <dpi:AddressFree>Bois Reine, 85450, La Taillée</dpi:AddressFree>
+                    </dpi:Address>
+                    <dpi:Consideration>
+                      <dpi:ConsQ1 currCode="EUR">0</dpi:ConsQ1>
+                      <dpi:ConsQ2 currCode="EUR">32</dpi:ConsQ2>
+                      <dpi:ConsQ3 currCode="EUR">128</dpi:ConsQ3>
+                      <dpi:ConsQ4 currCode="EUR">16</dpi:ConsQ4>
+                    </dpi:Consideration>
+                    <dpi:NumberOfActivities>
+                      <dpi:NumbQ1>0</dpi:NumbQ1>
+                      <dpi:NumbQ2>1</dpi:NumbQ2>
+                      <dpi:NumbQ3>6</dpi:NumbQ3>
+                      <dpi:NumbQ4>1</dpi:NumbQ4>
+                    </dpi:NumberOfActivities>
+                    <dpi:Fees>
+                      <dpi:FeesQ1 currCode="EUR">0</dpi:FeesQ1>
+                      <dpi:FeesQ2 currCode="EUR">7</dpi:FeesQ2>
+                      <dpi:FeesQ3 currCode="EUR">34</dpi:FeesQ3>
+                      <dpi:FeesQ4 currCode="EUR">5</dpi:FeesQ4>
+                    </dpi:Fees>
+                    <dpi:Taxes>
+                      <dpi:TaxQ1 currCode="EUR">0</dpi:TaxQ1>
+                      <dpi:TaxQ2 currCode="EUR">1</dpi:TaxQ2>
+                      <dpi:TaxQ3 currCode="EUR">7</dpi:TaxQ3>
+                      <dpi:TaxQ4 currCode="EUR">1</dpi:TaxQ4>
+                    </dpi:Taxes>
+                    <dpi:RentedDays>19</dpi:RentedDays>
+                  </dpi:PropertyListing>
+                </dpi:ImmovableProperty>
+              </dpi:RelevantActivities>
+              <dpi:DocSpec>
+                <stf:DocTypeIndic>OECD1</stf:DocTypeIndic>
+                <stf:DocRefId>DE2023-2023bea749b7-df73-4b18-9a45-0b5f8bc1fdde</stf:DocRefId>
+              </dpi:DocSpec>
+            </dpi:ReportableSeller>
+            <dpi:ReportableSeller>
+              <dpi:Identity>
+                <dpi:EntitySeller>
+                  <dpi:Standard>
+                    <dpi:EntSellerID>
+                      <dpi:ResCountryCode>SI</dpi:ResCountryCode>
+                      <dpi:TIN issuedBy="SI">20340451</dpi:TIN>
+                      <dpi:IN INType="BRN">2770466000</dpi:IN>
+                      <dpi:VAT>20340451</dpi:VAT>
+                      <dpi:Name>Ana Gomboc nosilka DOPOLNILNE DEJAVNOSTI</dpi:Name>
+                      <dpi:Address>
+                        <dpi:CountryCode>SI</dpi:CountryCode>
+                        <dpi:AddressFree>Srednja vas 6, 4265, Begunje</dpi:AddressFree>
+                      </dpi:Address>
+                    </dpi:EntSellerID>
+                  </dpi:Standard>
+                </dpi:EntitySeller>
+              </dpi:Identity>
+              <dpi:RelevantActivities>
+                <dpi:ImmovableProperty>
+                  <dpi:PropertyListing>
+                    <dpi:Address>
+                      <dpi:CountryCode>SI</dpi:CountryCode>
+                      <dpi:AddressFree>Srednja vas, 6, 4275, Begunje na gorenjskem</dpi:AddressFree>
+                    </dpi:Address>
+                    <dpi:Consideration>
+                      <dpi:ConsQ1 currCode="EUR">0</dpi:ConsQ1>
+                      <dpi:ConsQ2 currCode="EUR">139</dpi:ConsQ2>
+                      <dpi:ConsQ3 currCode="EUR">1342</dpi:ConsQ3>
+                      <dpi:ConsQ4 currCode="EUR">90</dpi:ConsQ4>
+                    </dpi:Consideration>
+                    <dpi:NumberOfActivities>
+                      <dpi:NumbQ1>0</dpi:NumbQ1>
+                      <dpi:NumbQ2>4</dpi:NumbQ2>
+                      <dpi:NumbQ3>17</dpi:NumbQ3>
+                      <dpi:NumbQ4>3</dpi:NumbQ4>
+                    </dpi:NumberOfActivities>
+                    <dpi:Fees>
+                      <dpi:FeesQ1 currCode="EUR">0</dpi:FeesQ1>
+                      <dpi:FeesQ2 currCode="EUR">38</dpi:FeesQ2>
+                      <dpi:FeesQ3 currCode="EUR">311</dpi:FeesQ3>
+                      <dpi:FeesQ4 currCode="EUR">26</dpi:FeesQ4>
+                    </dpi:Fees>
+                    <dpi:Taxes>
+                      <dpi:TaxQ1 currCode="EUR">0</dpi:TaxQ1>
+                      <dpi:TaxQ2 currCode="EUR">0</dpi:TaxQ2>
+                      <dpi:TaxQ3 currCode="EUR">0</dpi:TaxQ3>
+                      <dpi:TaxQ4 currCode="EUR">0</dpi:TaxQ4>
+                    </dpi:Taxes>
+                    <dpi:RentedDays>62</dpi:RentedDays>
+                  </dpi:PropertyListing>
+                  <dpi:PropertyListing>
+                    <dpi:Address>
+                      <dpi:CountryCode>SI</dpi:CountryCode>
+                      <dpi:AddressFree>Srednja vas, 6, 4275, Begunje na gorenjskem</dpi:AddressFree>
+                    </dpi:Address>
+                    <dpi:Consideration>
+                      <dpi:ConsQ1 currCode="EUR">0</dpi:ConsQ1>
+                      <dpi:ConsQ2 currCode="EUR">108</dpi:ConsQ2>
+                      <dpi:ConsQ3 currCode="EUR">310</dpi:ConsQ3>
+                      <dpi:ConsQ4 currCode="EUR">96</dpi:ConsQ4>
+                    </dpi:Consideration>
+                    <dpi:NumberOfActivities>
+                      <dpi:NumbQ1>0</dpi:NumbQ1>
+                      <dpi:NumbQ2>1</dpi:NumbQ2>
+                      <dpi:NumbQ3>5</dpi:NumbQ3>
+                      <dpi:NumbQ4>2</dpi:NumbQ4>
+                    </dpi:NumberOfActivities>
+                    <dpi:Fees>
+                      <dpi:FeesQ1 currCode="EUR">0</dpi:FeesQ1>
+                      <dpi:FeesQ2 currCode="EUR">24</dpi:FeesQ2>
+                      <dpi:FeesQ3 currCode="EUR">75</dpi:FeesQ3>
+                      <dpi:FeesQ4 currCode="EUR">24</dpi:FeesQ4>
+                    </dpi:Fees>
+                    <dpi:Taxes>
+                      <dpi:TaxQ1 currCode="EUR">0</dpi:TaxQ1>
+                      <dpi:TaxQ2 currCode="EUR">0</dpi:TaxQ2>
+                      <dpi:TaxQ3 currCode="EUR">0</dpi:TaxQ3>
+                      <dpi:TaxQ4 currCode="EUR">0</dpi:TaxQ4>
+                    </dpi:Taxes>
+                    <dpi:RentedDays>20</dpi:RentedDays>
+                  </dpi:PropertyListing>
+                  <dpi:PropertyListing>
+                    <dpi:Address>
+                      <dpi:CountryCode>SI</dpi:CountryCode>
+                      <dpi:AddressFree>Srednja vas, 6, 4275, Begunje na gorenjskem</dpi:AddressFree>
+                    </dpi:Address>
+                    <dpi:Consideration>
+                      <dpi:ConsQ1 currCode="EUR">0</dpi:ConsQ1>
+                      <dpi:ConsQ2 currCode="EUR">0</dpi:ConsQ2>
+                      <dpi:ConsQ3 currCode="EUR">446</dpi:ConsQ3>
+                      <dpi:ConsQ4 currCode="EUR">0</dpi:ConsQ4>
+                    </dpi:Consideration>
+                    <dpi:NumberOfActivities>
+                      <dpi:NumbQ1>0</dpi:NumbQ1>
+                      <dpi:NumbQ2>0</dpi:NumbQ2>
+                      <dpi:NumbQ3>7</dpi:NumbQ3>
+                      <dpi:NumbQ4>0</dpi:NumbQ4>
+                    </dpi:NumberOfActivities>
+                    <dpi:Fees>
+                      <dpi:FeesQ1 currCode="EUR">0</dpi:FeesQ1>
+                      <dpi:FeesQ2 currCode="EUR">0</dpi:FeesQ2>
+                      <dpi:FeesQ3 currCode="EUR">107</dpi:FeesQ3>
+                      <dpi:FeesQ4 currCode="EUR">0</dpi:FeesQ4>
+                    </dpi:Fees>
+                    <dpi:Taxes>
+                      <dpi:TaxQ1 currCode="EUR">0</dpi:TaxQ1>
+                      <dpi:TaxQ2 currCode="EUR">0</dpi:TaxQ2>
+                      <dpi:TaxQ3 currCode="EUR">0</dpi:TaxQ3>
+                      <dpi:TaxQ4 currCode="EUR">0</dpi:TaxQ4>
+                    </dpi:Taxes>
+                    <dpi:RentedDays>20</dpi:RentedDays>
+                  </dpi:PropertyListing>
+                </dpi:ImmovableProperty>
+              </dpi:RelevantActivities>
+              <dpi:DocSpec>
+                <stf:DocTypeIndic>OECD1</stf:DocTypeIndic>
+                <stf:DocRefId>DE2023-2023bac78b60-33a7-4542-a84b-70678568286f</stf:DocRefId>
+              </dpi:DocSpec>
+            </dpi:ReportableSeller>
+            <dpi:ReportableSeller>
+              <dpi:Identity>
+                <dpi:EntitySeller>
+                  <dpi:Standard>
+                    <dpi:EntSellerID>
+                      <dpi:ResCountryCode>DE</dpi:ResCountryCode>
+                      <dpi:TIN issuedBy="DE">280401E+12</dpi:TIN>
+                      <dpi:IN INType="BRN">706576</dpi:IN>
+                      <dpi:VAT>DE223654145</dpi:VAT>
+                      <dpi:Name>Forstbetrieb Fürst zu Fürstenberg GmbH &amp;amp; Co. KG</dpi:Name>
+                      <dpi:Address>
+                        <dpi:CountryCode>DE</dpi:CountryCode>
+                        <dpi:AddressFree>Josefstraße 11, 78166, Donaueschingen</dpi:AddressFree>
+                      </dpi:Address>
+                    </dpi:EntSellerID>
+                  </dpi:Standard>
+                </dpi:EntitySeller>
+              </dpi:Identity>
+              <dpi:RelevantActivities>
+                <dpi:ImmovableProperty>
+                  <dpi:PropertyListing>
+                    <dpi:Address>
+                      <dpi:CountryCode>DE</dpi:CountryCode>
+                      <dpi:AddressFree>Forstweg, 79877, Friedenweiler</dpi:AddressFree>
+                    </dpi:Address>
+                    <dpi:Consideration>
+                      <dpi:ConsQ1 currCode="EUR">0</dpi:ConsQ1>
+                      <dpi:ConsQ2 currCode="EUR">60</dpi:ConsQ2>
+                      <dpi:ConsQ3 currCode="EUR">60</dpi:ConsQ3>
+                      <dpi:ConsQ4 currCode="EUR">0</dpi:ConsQ4>
+                    </dpi:Consideration>
+                    <dpi:NumberOfActivities>
+                      <dpi:NumbQ1>0</dpi:NumbQ1>
+                      <dpi:NumbQ2>4</dpi:NumbQ2>
+                      <dpi:NumbQ3>4</dpi:NumbQ3>
+                      <dpi:NumbQ4>0</dpi:NumbQ4>
+                    </dpi:NumberOfActivities>
+                    <dpi:Fees>
+                      <dpi:FeesQ1 currCode="EUR">0</dpi:FeesQ1>
+                      <dpi:FeesQ2 currCode="EUR">18</dpi:FeesQ2>
+                      <dpi:FeesQ3 currCode="EUR">18</dpi:FeesQ3>
+                      <dpi:FeesQ4 currCode="EUR">0</dpi:FeesQ4>
+                    </dpi:Fees>
+                    <dpi:Taxes>
+                      <dpi:TaxQ1 currCode="EUR">0</dpi:TaxQ1>
+                      <dpi:TaxQ2 currCode="EUR">4</dpi:TaxQ2>
+                      <dpi:TaxQ3 currCode="EUR">4</dpi:TaxQ3>
+                      <dpi:TaxQ4 currCode="EUR">0</dpi:TaxQ4>
+                    </dpi:Taxes>
+                    <dpi:RentedDays>16</dpi:RentedDays>
+                  </dpi:PropertyListing>
+                  <dpi:PropertyListing>
+                    <dpi:Address>
+                      <dpi:CountryCode>DE</dpi:CountryCode>
+                      <dpi:AddressFree>Forstweg, 79853, Lenzkirch</dpi:AddressFree>
+                    </dpi:Address>
+                    <dpi:Consideration>
+                      <dpi:ConsQ1 currCode="EUR">0</dpi:ConsQ1>
+                      <dpi:ConsQ2 currCode="EUR">135</dpi:ConsQ2>
+                      <dpi:ConsQ3 currCode="EUR">105</dpi:ConsQ3>
+                      <dpi:ConsQ4 currCode="EUR">15</dpi:ConsQ4>
+                    </dpi:Consideration>
+                    <dpi:NumberOfActivities>
+                      <dpi:NumbQ1>0</dpi:NumbQ1>
+                      <dpi:NumbQ2>7</dpi:NumbQ2>
+                      <dpi:NumbQ3>7</dpi:NumbQ3>
+                      <dpi:NumbQ4>1</dpi:NumbQ4>
+                    </dpi:NumberOfActivities>
+                    <dpi:Fees>
+                      <dpi:FeesQ1 currCode="EUR">0</dpi:FeesQ1>
+                      <dpi:FeesQ2 currCode="EUR">37</dpi:FeesQ2>
+                      <dpi:FeesQ3 currCode="EUR">32</dpi:FeesQ3>
+                      <dpi:FeesQ4 currCode="EUR">5</dpi:FeesQ4>
+                    </dpi:Fees>
+                    <dpi:Taxes>
+                      <dpi:TaxQ1 currCode="EUR">0</dpi:TaxQ1>
+                      <dpi:TaxQ2 currCode="EUR">7</dpi:TaxQ2>
+                      <dpi:TaxQ3 currCode="EUR">6</dpi:TaxQ3>
+                      <dpi:TaxQ4 currCode="EUR">1</dpi:TaxQ4>
+                    </dpi:Taxes>
+                    <dpi:RentedDays>30</dpi:RentedDays>
+                  </dpi:PropertyListing>
+                  <dpi:PropertyListing>
+                    <dpi:Address>
+                      <dpi:CountryCode>DE</dpi:CountryCode>
+                      <dpi:AddressFree>Raitenbucher Straße, 79853, Lenzkirch</dpi:AddressFree>
+                    </dpi:Address>
+                    <dpi:Consideration>
+                      <dpi:ConsQ1 currCode="EUR">0</dpi:ConsQ1>
+                      <dpi:ConsQ2 currCode="EUR">370</dpi:ConsQ2>
+                      <dpi:ConsQ3 currCode="EUR">1170</dpi:ConsQ3>
+                      <dpi:ConsQ4 currCode="EUR">45</dpi:ConsQ4>
+                    </dpi:Consideration>
+                    <dpi:NumberOfActivities>
+                      <dpi:NumbQ1>0</dpi:NumbQ1>
+                      <dpi:NumbQ2>20</dpi:NumbQ2>
+                      <dpi:NumbQ3>72</dpi:NumbQ3>
+                      <dpi:NumbQ4>3</dpi:NumbQ4>
+                    </dpi:NumberOfActivities>
+                    <dpi:Fees>
+                      <dpi:FeesQ1 currCode="EUR">0</dpi:FeesQ1>
+                      <dpi:FeesQ2 currCode="EUR">104</dpi:FeesQ2>
+                      <dpi:FeesQ3 currCode="EUR">348</dpi:FeesQ3>
+                      <dpi:FeesQ4 currCode="EUR">14</dpi:FeesQ4>
+                    </dpi:Fees>
+                    <dpi:Taxes>
+                      <dpi:TaxQ1 currCode="EUR">0</dpi:TaxQ1>
+                      <dpi:TaxQ2 currCode="EUR">20</dpi:TaxQ2>
+                      <dpi:TaxQ3 currCode="EUR">66</dpi:TaxQ3>
+                      <dpi:TaxQ4 currCode="EUR">3</dpi:TaxQ4>
+                    </dpi:Taxes>
+                    <dpi:RentedDays>196</dpi:RentedDays>
+                  </dpi:PropertyListing>
+                  <dpi:PropertyListing>
+                    <dpi:Address>
+                      <dpi:CountryCode>DE</dpi:CountryCode>
+                      <dpi:AddressFree>Geutschestraße, 78098, Triberg im Schwarzwald</dpi:AddressFree>
+                    </dpi:Address>
+                    <dpi:Consideration>
+                      <dpi:ConsQ1 currCode="EUR">0</dpi:ConsQ1>
+                      <dpi:ConsQ2 currCode="EUR">120</dpi:ConsQ2>
+                      <dpi:ConsQ3 currCode="EUR">45</dpi:ConsQ3>
+                      <dpi:ConsQ4 currCode="EUR">0</dpi:ConsQ4>
+                    </dpi:Consideration>
+                    <dpi:NumberOfActivities>
+                      <dpi:NumbQ1>0</dpi:NumbQ1>
+                      <dpi:NumbQ2>6</dpi:NumbQ2>
+                      <dpi:NumbQ3>3</dpi:NumbQ3>
+                      <dpi:NumbQ4>0</dpi:NumbQ4>
+                    </dpi:NumberOfActivities>
+                    <dpi:Fees>
+                      <dpi:FeesQ1 currCode="EUR">0</dpi:FeesQ1>
+                      <dpi:FeesQ2 currCode="EUR">33</dpi:FeesQ2>
+                      <dpi:FeesQ3 currCode="EUR">14</dpi:FeesQ3>
+                      <dpi:FeesQ4 currCode="EUR">0</dpi:FeesQ4>
+                    </dpi:Fees>
+                    <dpi:Taxes>
+                      <dpi:TaxQ1 currCode="EUR">0</dpi:TaxQ1>
+                      <dpi:TaxQ2 currCode="EUR">6</dpi:TaxQ2>
+                      <dpi:TaxQ3 currCode="EUR">3</dpi:TaxQ3>
+                      <dpi:TaxQ4 currCode="EUR">0</dpi:TaxQ4>
+                    </dpi:Taxes>
+                    <dpi:RentedDays>20</dpi:RentedDays>
+                  </dpi:PropertyListing>
+                  <dpi:PropertyListing>
+                    <dpi:Address>
+                      <dpi:CountryCode>DE</dpi:CountryCode>
+                      <dpi:AddressFree>Forstweg, 79853, Lenzkirch</dpi:AddressFree>
+                    </dpi:Address>
+                    <dpi:Consideration>
+                      <dpi:ConsQ1 currCode="EUR">0</dpi:ConsQ1>
+                      <dpi:ConsQ2 currCode="EUR">60</dpi:ConsQ2>
+                      <dpi:ConsQ3 currCode="EUR">15</dpi:ConsQ3>
+                      <dpi:ConsQ4 currCode="EUR">0</dpi:ConsQ4>
+                    </dpi:Consideration>
+                    <dpi:NumberOfActivities>
+                      <dpi:NumbQ1>0</dpi:NumbQ1>
+                      <dpi:NumbQ2>3</dpi:NumbQ2>
+                      <dpi:NumbQ3>1</dpi:NumbQ3>
+                      <dpi:NumbQ4>0</dpi:NumbQ4>
+                    </dpi:NumberOfActivities>
+                    <dpi:Fees>
+                      <dpi:FeesQ1 currCode="EUR">0</dpi:FeesQ1>
+                      <dpi:FeesQ2 currCode="EUR">16</dpi:FeesQ2>
+                      <dpi:FeesQ3 currCode="EUR">5</dpi:FeesQ3>
+                      <dpi:FeesQ4 currCode="EUR">0</dpi:FeesQ4>
+                    </dpi:Fees>
+                    <dpi:Taxes>
+                      <dpi:TaxQ1 currCode="EUR">0</dpi:TaxQ1>
+                      <dpi:TaxQ2 currCode="EUR">3</dpi:TaxQ2>
+                      <dpi:TaxQ3 currCode="EUR">1</dpi:TaxQ3>
+                      <dpi:TaxQ4 currCode="EUR">0</dpi:TaxQ4>
+                    </dpi:Taxes>
+                    <dpi:RentedDays>9</dpi:RentedDays>
+                  </dpi:PropertyListing>
+                  <dpi:PropertyListing>
+                    <dpi:Address>
+                      <dpi:CountryCode>DE</dpi:CountryCode>
+                      <dpi:AddressFree>Schluchseestraße, 79859, Schluchsee</dpi:AddressFree>
+                    </dpi:Address>
+                    <dpi:Consideration>
+                      <dpi:ConsQ1 currCode="EUR">0</dpi:ConsQ1>
+                      <dpi:ConsQ2 currCode="EUR">30</dpi:ConsQ2>
+                      <dpi:ConsQ3 currCode="EUR">90</dpi:ConsQ3>
+                      <dpi:ConsQ4 currCode="EUR">0</dpi:ConsQ4>
+                    </dpi:Consideration>
+                    <dpi:NumberOfActivities>
+                      <dpi:NumbQ1>0</dpi:NumbQ1>
+                      <dpi:NumbQ2>2</dpi:NumbQ2>
+                      <dpi:NumbQ3>6</dpi:NumbQ3>
+                      <dpi:NumbQ4>0</dpi:NumbQ4>
+                    </dpi:NumberOfActivities>
+                    <dpi:Fees>
+                      <dpi:FeesQ1 currCode="EUR">0</dpi:FeesQ1>
+                      <dpi:FeesQ2 currCode="EUR">9</dpi:FeesQ2>
+                      <dpi:FeesQ3 currCode="EUR">28</dpi:FeesQ3>
+                      <dpi:FeesQ4 currCode="EUR">0</dpi:FeesQ4>
+                    </dpi:Fees>
+                    <dpi:Taxes>
+                      <dpi:TaxQ1 currCode="EUR">0</dpi:TaxQ1>
+                      <dpi:TaxQ2 currCode="EUR">2</dpi:TaxQ2>
+                      <dpi:TaxQ3 currCode="EUR">5</dpi:TaxQ3>
+                      <dpi:TaxQ4 currCode="EUR">0</dpi:TaxQ4>
+                    </dpi:Taxes>
+                    <dpi:RentedDays>16</dpi:RentedDays>
+                  </dpi:PropertyListing>
+                  <dpi:PropertyListing>
+                    <dpi:Address>
+                      <dpi:CountryCode>DE</dpi:CountryCode>
+                      <dpi:AddressFree>Dittishausen, 79843, Löffingen</dpi:AddressFree>
+                    </dpi:Address>
+                    <dpi:Consideration>
+                      <dpi:ConsQ1 currCode="EUR">0</dpi:ConsQ1>
+                      <dpi:ConsQ2 currCode="EUR">20</dpi:ConsQ2>
+                      <dpi:ConsQ3 currCode="EUR">45</dpi:ConsQ3>
+                      <dpi:ConsQ4 currCode="EUR">0</dpi:ConsQ4>
+                    </dpi:Consideration>
+                    <dpi:NumberOfActivities>
+                      <dpi:NumbQ1>0</dpi:NumbQ1>
+                      <dpi:NumbQ2>1</dpi:NumbQ2>
+                      <dpi:NumbQ3>1</dpi:NumbQ3>
+                      <dpi:NumbQ4>0</dpi:NumbQ4>
+                    </dpi:NumberOfActivities>
+                    <dpi:Fees>
+                      <dpi:FeesQ1 currCode="EUR">0</dpi:FeesQ1>
+                      <dpi:FeesQ2 currCode="EUR">5</dpi:FeesQ2>
+                      <dpi:FeesQ3 currCode="EUR">10</dpi:FeesQ3>
+                      <dpi:FeesQ4 currCode="EUR">0</dpi:FeesQ4>
+                    </dpi:Fees>
+                    <dpi:Taxes>
+                      <dpi:TaxQ1 currCode="EUR">0</dpi:TaxQ1>
+                      <dpi:TaxQ2 currCode="EUR">1</dpi:TaxQ2>
+                      <dpi:TaxQ3 currCode="EUR">2</dpi:TaxQ3>
+                      <dpi:TaxQ4 currCode="EUR">0</dpi:TaxQ4>
+                    </dpi:Taxes>
+                    <dpi:RentedDays>6</dpi:RentedDays>
+                  </dpi:PropertyListing>
+                  <dpi:PropertyListing>
+                    <dpi:Address>
+                      <dpi:CountryCode>DE</dpi:CountryCode>
+                      <dpi:AddressFree>Raitenbucher Str. , 79853,  Lenzkirch</dpi:AddressFree>
+                    </dpi:Address>
+                    <dpi:Consideration>
+                      <dpi:ConsQ1 currCode="EUR">0</dpi:ConsQ1>
+                      <dpi:ConsQ2 currCode="EUR">60</dpi:ConsQ2>
+                      <dpi:ConsQ3 currCode="EUR">15</dpi:ConsQ3>
+                      <dpi:ConsQ4 currCode="EUR">0</dpi:ConsQ4>
+                    </dpi:Consideration>
+                    <dpi:NumberOfActivities>
+                      <dpi:NumbQ1>0</dpi:NumbQ1>
+                      <dpi:NumbQ2>3</dpi:NumbQ2>
+                      <dpi:NumbQ3>1</dpi:NumbQ3>
+                      <dpi:NumbQ4>0</dpi:NumbQ4>
+                    </dpi:NumberOfActivities>
+                    <dpi:Fees>
+                      <dpi:FeesQ1 currCode="EUR">0</dpi:FeesQ1>
+                      <dpi:FeesQ2 currCode="EUR">16</dpi:FeesQ2>
+                      <dpi:FeesQ3 currCode="EUR">5</dpi:FeesQ3>
+                      <dpi:FeesQ4 currCode="EUR">0</dpi:FeesQ4>
+                    </dpi:Fees>
+                    <dpi:Taxes>
+                      <dpi:TaxQ1 currCode="EUR">0</dpi:TaxQ1>
+                      <dpi:TaxQ2 currCode="EUR">3</dpi:TaxQ2>
+                      <dpi:TaxQ3 currCode="EUR">1</dpi:TaxQ3>
+                      <dpi:TaxQ4 currCode="EUR">0</dpi:TaxQ4>
+                    </dpi:Taxes>
+                    <dpi:RentedDays>9</dpi:RentedDays>
+                  </dpi:PropertyListing>
+                  <dpi:PropertyListing>
+                    <dpi:Address>
+                      <dpi:CountryCode>DE</dpi:CountryCode>
+                      <dpi:AddressFree>Raitenbucher Str. , 79853,  Lenzkirch</dpi:AddressFree>
+                    </dpi:Address>
+                    <dpi:Consideration>
+                      <dpi:ConsQ1 currCode="EUR">0</dpi:ConsQ1>
+                      <dpi:ConsQ2 currCode="EUR">15</dpi:ConsQ2>
+                      <dpi:ConsQ3 currCode="EUR">180</dpi:ConsQ3>
+                      <dpi:ConsQ4 currCode="EUR">15</dpi:ConsQ4>
+                    </dpi:Consideration>
+                    <dpi:NumberOfActivities>
+                      <dpi:NumbQ1>0</dpi:NumbQ1>
+                      <dpi:NumbQ2>1</dpi:NumbQ2>
+                      <dpi:NumbQ3>10</dpi:NumbQ3>
+                      <dpi:NumbQ4>1</dpi:NumbQ4>
+                    </dpi:NumberOfActivities>
+                    <dpi:Fees>
+                      <dpi:FeesQ1 currCode="EUR">0</dpi:FeesQ1>
+                      <dpi:FeesQ2 currCode="EUR">5</dpi:FeesQ2>
+                      <dpi:FeesQ3 currCode="EUR">51</dpi:FeesQ3>
+                      <dpi:FeesQ4 currCode="EUR">5</dpi:FeesQ4>
+                    </dpi:Fees>
+                    <dpi:Taxes>
+                      <dpi:TaxQ1 currCode="EUR">0</dpi:TaxQ1>
+                      <dpi:TaxQ2 currCode="EUR">1</dpi:TaxQ2>
+                      <dpi:TaxQ3 currCode="EUR">10</dpi:TaxQ3>
+                      <dpi:TaxQ4 currCode="EUR">1</dpi:TaxQ4>
+                    </dpi:Taxes>
+                    <dpi:RentedDays>26</dpi:RentedDays>
+                  </dpi:PropertyListing>
+                  <dpi:PropertyListing>
+                    <dpi:Address>
+                      <dpi:CountryCode>DE</dpi:CountryCode>
+                      <dpi:AddressFree>Bundesstraße 500, 79853,  Lenzkirch</dpi:AddressFree>
+                    </dpi:Address>
+                    <dpi:Consideration>
+                      <dpi:ConsQ1 currCode="EUR">0</dpi:ConsQ1>
+                      <dpi:ConsQ2 currCode="EUR">30</dpi:ConsQ2>
+                      <dpi:ConsQ3 currCode="EUR">30</dpi:ConsQ3>
+                      <dpi:ConsQ4 currCode="EUR">0</dpi:ConsQ4>
+                    </dpi:Consideration>
+                    <dpi:NumberOfActivities>
+                      <dpi:NumbQ1>0</dpi:NumbQ1>
+                      <dpi:NumbQ2>2</dpi:NumbQ2>
+                      <dpi:NumbQ3>2</dpi:NumbQ3>
+                      <dpi:NumbQ4>0</dpi:NumbQ4>
+                    </dpi:NumberOfActivities>
+                    <dpi:Fees>
+                      <dpi:FeesQ1 currCode="EUR">0</dpi:FeesQ1>
+                      <dpi:FeesQ2 currCode="EUR">9</dpi:FeesQ2>
+                      <dpi:FeesQ3 currCode="EUR">9</dpi:FeesQ3>
+                      <dpi:FeesQ4 currCode="EUR">0</dpi:FeesQ4>
+                    </dpi:Fees>
+                    <dpi:Taxes>
+                      <dpi:TaxQ1 currCode="EUR">0</dpi:TaxQ1>
+                      <dpi:TaxQ2 currCode="EUR">2</dpi:TaxQ2>
+                      <dpi:TaxQ3 currCode="EUR">2</dpi:TaxQ3>
+                      <dpi:TaxQ4 currCode="EUR">0</dpi:TaxQ4>
+                    </dpi:Taxes>
+                    <dpi:RentedDays>8</dpi:RentedDays>
+                  </dpi:PropertyListing>
+                  <dpi:PropertyListing>
+                    <dpi:Address>
+                      <dpi:CountryCode>DE</dpi:CountryCode>
+                      <dpi:AddressFree>Talstraße, 77773, Schenkenzell</dpi:AddressFree>
+                    </dpi:Address>
+                    <dpi:Consideration>
+                      <dpi:ConsQ1 currCode="EUR">0</dpi:ConsQ1>
+                      <dpi:ConsQ2 currCode="EUR">0</dpi:ConsQ2>
+                      <dpi:ConsQ3 currCode="EUR">315</dpi:ConsQ3>
+                      <dpi:ConsQ4 currCode="EUR">30</dpi:ConsQ4>
+                    </dpi:Consideration>
+                    <dpi:NumberOfActivities>
+                      <dpi:NumbQ1>0</dpi:NumbQ1>
+                      <dpi:NumbQ2>0</dpi:NumbQ2>
+                      <dpi:NumbQ3>14</dpi:NumbQ3>
+                      <dpi:NumbQ4>1</dpi:NumbQ4>
+                    </dpi:NumberOfActivities>
+                    <dpi:Fees>
+                      <dpi:FeesQ1 currCode="EUR">0</dpi:FeesQ1>
+                      <dpi:FeesQ2 currCode="EUR">0</dpi:FeesQ2>
+                      <dpi:FeesQ3 currCode="EUR">82</dpi:FeesQ3>
+                      <dpi:FeesQ4 currCode="EUR">7</dpi:FeesQ4>
+                    </dpi:Fees>
+                    <dpi:Taxes>
+                      <dpi:TaxQ1 currCode="EUR">0</dpi:TaxQ1>
+                      <dpi:TaxQ2 currCode="EUR">0</dpi:TaxQ2>
+                      <dpi:TaxQ3 currCode="EUR">16</dpi:TaxQ3>
+                      <dpi:TaxQ4 currCode="EUR">1</dpi:TaxQ4>
+                    </dpi:Taxes>
+                    <dpi:RentedDays>38</dpi:RentedDays>
+                  </dpi:PropertyListing>
+                  <dpi:PropertyListing>
+                    <dpi:Address>
+                      <dpi:CountryCode>DE</dpi:CountryCode>
+                      <dpi:AddressFree>Weiler, 79843, Löffingen</dpi:AddressFree>
+                    </dpi:Address>
+                    <dpi:Consideration>
+                      <dpi:ConsQ1 currCode="EUR">0</dpi:ConsQ1>
+                      <dpi:ConsQ2 currCode="EUR">0</dpi:ConsQ2>
+                      <dpi:ConsQ3 currCode="EUR">45</dpi:ConsQ3>
+                      <dpi:ConsQ4 currCode="EUR">0</dpi:ConsQ4>
+                    </dpi:Consideration>
+                    <dpi:NumberOfActivities>
+                      <dpi:NumbQ1>0</dpi:NumbQ1>
+                      <dpi:NumbQ2>0</dpi:NumbQ2>
+                      <dpi:NumbQ3>3</dpi:NumbQ3>
+                      <dpi:NumbQ4>0</dpi:NumbQ4>
+                    </dpi:NumberOfActivities>
+                    <dpi:Fees>
+                      <dpi:FeesQ1 currCode="EUR">0</dpi:FeesQ1>
+                      <dpi:FeesQ2 currCode="EUR">0</dpi:FeesQ2>
+                      <dpi:FeesQ3 currCode="EUR">14</dpi:FeesQ3>
+                      <dpi:FeesQ4 currCode="EUR">0</dpi:FeesQ4>
+                    </dpi:Fees>
+                    <dpi:Taxes>
+                      <dpi:TaxQ1 currCode="EUR">0</dpi:TaxQ1>
+                      <dpi:TaxQ2 currCode="EUR">0</dpi:TaxQ2>
+                      <dpi:TaxQ3 currCode="EUR">3</dpi:TaxQ3>
+                      <dpi:TaxQ4 currCode="EUR">0</dpi:TaxQ4>
+                    </dpi:Taxes>
+                    <dpi:RentedDays>6</dpi:RentedDays>
+                  </dpi:PropertyListing>
+                  <dpi:PropertyListing>
+                    <dpi:Address>
+                      <dpi:CountryCode>DE</dpi:CountryCode>
+                      <dpi:AddressFree>Vorder-Wittichen, 77773, Schenkenzell</dpi:AddressFree>
+                    </dpi:Address>
+                    <dpi:Consideration>
+                      <dpi:ConsQ1 currCode="EUR">0</dpi:ConsQ1>
+                      <dpi:ConsQ2 currCode="EUR">0</dpi:ConsQ2>
+                      <dpi:ConsQ3 currCode="EUR">15</dpi:ConsQ3>
+                      <dpi:ConsQ4 currCode="EUR">0</dpi:ConsQ4>
+                    </dpi:Consideration>
+                    <dpi:NumberOfActivities>
+                      <dpi:NumbQ1>0</dpi:NumbQ1>
+                      <dpi:NumbQ2>0</dpi:NumbQ2>
+                      <dpi:NumbQ3>1</dpi:NumbQ3>
+                      <dpi:NumbQ4>0</dpi:NumbQ4>
+                    </dpi:NumberOfActivities>
+                    <dpi:Fees>
+                      <dpi:FeesQ1 currCode="EUR">0</dpi:FeesQ1>
+                      <dpi:FeesQ2 currCode="EUR">0</dpi:FeesQ2>
+                      <dpi:FeesQ3 currCode="EUR">5</dpi:FeesQ3>
+                      <dpi:FeesQ4 currCode="EUR">0</dpi:FeesQ4>
+                    </dpi:Fees>
+                    <dpi:Taxes>
+                      <dpi:TaxQ1 currCode="EUR">0</dpi:TaxQ1>
+                      <dpi:TaxQ2 currCode="EUR">0</dpi:TaxQ2>
+                      <dpi:TaxQ3 currCode="EUR">1</dpi:TaxQ3>
+                      <dpi:TaxQ4 currCode="EUR">0</dpi:TaxQ4>
+                    </dpi:Taxes>
+                    <dpi:RentedDays>2</dpi:RentedDays>
+                  </dpi:PropertyListing>
+                  <dpi:PropertyListing>
+                    <dpi:Address>
+                      <dpi:CountryCode>DE</dpi:CountryCode>
+                      <dpi:AddressFree>Raitenbucher Straße, 79853, Lenzkirch</dpi:AddressFree>
+                    </dpi:Address>
+                    <dpi:Consideration>
+                      <dpi:ConsQ1 currCode="EUR">0</dpi:ConsQ1>
+                      <dpi:ConsQ2 currCode="EUR">0</dpi:ConsQ2>
+                      <dpi:ConsQ3 currCode="EUR">135</dpi:ConsQ3>
+                      <dpi:ConsQ4 currCode="EUR">30</dpi:ConsQ4>
+                    </dpi:Consideration>
+                    <dpi:NumberOfActivities>
+                      <dpi:NumbQ1>0</dpi:NumbQ1>
+                      <dpi:NumbQ2>0</dpi:NumbQ2>
+                      <dpi:NumbQ3>8</dpi:NumbQ3>
+                      <dpi:NumbQ4>2</dpi:NumbQ4>
+                    </dpi:NumberOfActivities>
+                    <dpi:Fees>
+                      <dpi:FeesQ1 currCode="EUR">0</dpi:FeesQ1>
+                      <dpi:FeesQ2 currCode="EUR">0</dpi:FeesQ2>
+                      <dpi:FeesQ3 currCode="EUR">39</dpi:FeesQ3>
+                      <dpi:FeesQ4 currCode="EUR">9</dpi:FeesQ4>
+                    </dpi:Fees>
+                    <dpi:Taxes>
+                      <dpi:TaxQ1 currCode="EUR">0</dpi:TaxQ1>
+                      <dpi:TaxQ2 currCode="EUR">0</dpi:TaxQ2>
+                      <dpi:TaxQ3 currCode="EUR">8</dpi:TaxQ3>
+                      <dpi:TaxQ4 currCode="EUR">2</dpi:TaxQ4>
+                    </dpi:Taxes>
+                    <dpi:RentedDays>21</dpi:RentedDays>
+                  </dpi:PropertyListing>
+                </dpi:ImmovableProperty>
+              </dpi:RelevantActivities>
+              <dpi:DocSpec>
+                <stf:DocTypeIndic>OECD1</stf:DocTypeIndic>
+                <stf:DocRefId>DE2023-202300dde3a6-8f63-4cdb-afd3-d1d322e6cac6</stf:DocRefId>
+              </dpi:DocSpec>
+            </dpi:ReportableSeller>
+            <dpi:ReportableSeller>
+              <dpi:Identity>
+                <dpi:EntitySeller>
+                  <dpi:Standard>
+                    <dpi:EntSellerID>
+                      <dpi:ResCountryCode>DK</dpi:ResCountryCode>
+                      <dpi:TIN issuedBy="DE">213102E+12</dpi:TIN>
+                      <dpi:VAT>DK42481106</dpi:VAT>
+                      <dpi:Name>Tiny SeaSide ApS</dpi:Name>
+                      <dpi:Address>
+                        <dpi:CountryCode>DK</dpi:CountryCode>
+                        <dpi:AddressFree>Lejrvejen 8A, 6330, Padborg</dpi:AddressFree>
+                      </dpi:Address>
+                    </dpi:EntSellerID>
+                  </dpi:Standard>
+                </dpi:EntitySeller>
+              </dpi:Identity>
+              <dpi:RelevantActivities>
+                <dpi:ImmovableProperty>
+                  <dpi:PropertyListing>
+                    <dpi:Address>
+                      <dpi:CountryCode>DK</dpi:CountryCode>
+                      <dpi:AddressFree>Loddenhøjvej 245 6200 Aabenraa Danmark, 6200, Aabenraa</dpi:AddressFree>
+                    </dpi:Address>
+                    <dpi:Consideration>
+                      <dpi:ConsQ1 currCode="EUR">0</dpi:ConsQ1>
+                      <dpi:ConsQ2 currCode="EUR">127</dpi:ConsQ2>
+                      <dpi:ConsQ3 currCode="EUR">475</dpi:ConsQ3>
+                      <dpi:ConsQ4 currCode="EUR">0</dpi:ConsQ4>
+                    </dpi:Consideration>
+                    <dpi:NumberOfActivities>
+                      <dpi:NumbQ1>0</dpi:NumbQ1>
+                      <dpi:NumbQ2>3</dpi:NumbQ2>
+                      <dpi:NumbQ3>11</dpi:NumbQ3>
+                      <dpi:NumbQ4>0</dpi:NumbQ4>
+                    </dpi:NumberOfActivities>
+                    <dpi:Fees>
+                      <dpi:FeesQ1 currCode="EUR">0</dpi:FeesQ1>
+                      <dpi:FeesQ2 currCode="EUR">28</dpi:FeesQ2>
+                      <dpi:FeesQ3 currCode="EUR">103</dpi:FeesQ3>
+                      <dpi:FeesQ4 currCode="EUR">0</dpi:FeesQ4>
+                    </dpi:Fees>
+                    <dpi:Taxes>
+                      <dpi:TaxQ1 currCode="EUR">0</dpi:TaxQ1>
+                      <dpi:TaxQ2 currCode="EUR">5</dpi:TaxQ2>
+                      <dpi:TaxQ3 currCode="EUR">20</dpi:TaxQ3>
+                      <dpi:TaxQ4 currCode="EUR">0</dpi:TaxQ4>
+                    </dpi:Taxes>
+                    <dpi:RentedDays>28</dpi:RentedDays>
+                  </dpi:PropertyListing>
+                  <dpi:PropertyListing>
+                    <dpi:Address>
+                      <dpi:CountryCode>DK</dpi:CountryCode>
+                      <dpi:AddressFree>Østerbyvej 51, 6470, Sydals</dpi:AddressFree>
+                    </dpi:Address>
+                    <dpi:Consideration>
+                      <dpi:ConsQ1 currCode="EUR">0</dpi:ConsQ1>
+                      <dpi:ConsQ2 currCode="EUR">330</dpi:ConsQ2>
+                      <dpi:ConsQ3 currCode="EUR">2625</dpi:ConsQ3>
+                      <dpi:ConsQ4 currCode="EUR">420</dpi:ConsQ4>
+                    </dpi:Consideration>
+                    <dpi:NumberOfActivities>
+                      <dpi:NumbQ1>0</dpi:NumbQ1>
+                      <dpi:NumbQ2>8</dpi:NumbQ2>
+                      <dpi:NumbQ3>32</dpi:NumbQ3>
+                      <dpi:NumbQ4>10</dpi:NumbQ4>
+                    </dpi:NumberOfActivities>
+                    <dpi:Fees>
+                      <dpi:FeesQ1 currCode="EUR">0</dpi:FeesQ1>
+                      <dpi:FeesQ2 currCode="EUR">72</dpi:FeesQ2>
+                      <dpi:FeesQ3 currCode="EUR">508</dpi:FeesQ3>
+                      <dpi:FeesQ4 currCode="EUR">92</dpi:FeesQ4>
+                    </dpi:Fees>
+                    <dpi:Taxes>
+                      <dpi:TaxQ1 currCode="EUR">0</dpi:TaxQ1>
+                      <dpi:TaxQ2 currCode="EUR">14</dpi:TaxQ2>
+                      <dpi:TaxQ3 currCode="EUR">97</dpi:TaxQ3>
+                      <dpi:TaxQ4 currCode="EUR">17</dpi:TaxQ4>
+                    </dpi:Taxes>
+                    <dpi:RentedDays>139</dpi:RentedDays>
+                  </dpi:PropertyListing>
+                  <dpi:PropertyListing>
+                    <dpi:Address>
+                      <dpi:CountryCode>DK</dpi:CountryCode>
+                      <dpi:AddressFree>Skarrevej 333, 6200, Aabenraa</dpi:AddressFree>
+                    </dpi:Address>
+                    <dpi:Consideration>
+                      <dpi:ConsQ1 currCode="EUR">0</dpi:ConsQ1>
+                      <dpi:ConsQ2 currCode="EUR">170</dpi:ConsQ2>
+                      <dpi:ConsQ3 currCode="EUR">840</dpi:ConsQ3>
+                      <dpi:ConsQ4 currCode="EUR">0</dpi:ConsQ4>
+                    </dpi:Consideration>
+                    <dpi:NumberOfActivities>
+                      <dpi:NumbQ1>0</dpi:NumbQ1>
+                      <dpi:NumbQ2>3</dpi:NumbQ2>
+                      <dpi:NumbQ3>15</dpi:NumbQ3>
+                      <dpi:NumbQ4>0</dpi:NumbQ4>
+                    </dpi:NumberOfActivities>
+                    <dpi:Fees>
+                      <dpi:FeesQ1 currCode="EUR">0</dpi:FeesQ1>
+                      <dpi:FeesQ2 currCode="EUR">35</dpi:FeesQ2>
+                      <dpi:FeesQ3 currCode="EUR">173</dpi:FeesQ3>
+                      <dpi:FeesQ4 currCode="EUR">0</dpi:FeesQ4>
+                    </dpi:Fees>
+                    <dpi:Taxes>
+                      <dpi:TaxQ1 currCode="EUR">0</dpi:TaxQ1>
+                      <dpi:TaxQ2 currCode="EUR">7</dpi:TaxQ2>
+                      <dpi:TaxQ3 currCode="EUR">33</dpi:TaxQ3>
+                      <dpi:TaxQ4 currCode="EUR">0</dpi:TaxQ4>
+                    </dpi:Taxes>
+                    <dpi:RentedDays>46</dpi:RentedDays>
+                  </dpi:PropertyListing>
+                </dpi:ImmovableProperty>
+              </dpi:RelevantActivities>
+              <dpi:DocSpec>
+                <stf:DocTypeIndic>OECD1</stf:DocTypeIndic>
+                <stf:DocRefId>DE2023-202332ea8e6f-3d81-4048-8473-72410d118f39</stf:DocRefId>
+              </dpi:DocSpec>
+            </dpi:ReportableSeller>
+            <dpi:ReportableSeller>
+              <dpi:Identity>
+                <dpi:EntitySeller>
+                  <dpi:Standard>
+                    <dpi:EntSellerID>
+                      <dpi:ResCountryCode>DE</dpi:ResCountryCode>
+                      <dpi:TIN issuedBy="DE">956203E+12</dpi:TIN>
+                      <dpi:Name>Binz</dpi:Name>
+                      <dpi:Address>
+                        <dpi:CountryCode>DE</dpi:CountryCode>
+                        <dpi:AddressFree>Riedstr 17, 86391, Stadtbergen</dpi:AddressFree>
+                      </dpi:Address>
+                    </dpi:EntSellerID>
+                  </dpi:Standard>
+                </dpi:EntitySeller>
+              </dpi:Identity>
+              <dpi:RelevantActivities>
+                <dpi:ImmovableProperty>
+                  <dpi:PropertyListing>
+                    <dpi:Address>
+                      <dpi:CountryCode>HR</dpi:CountryCode>
+                      <dpi:AddressFree>Unnamed road, 21403, Sutivan</dpi:AddressFree>
+                    </dpi:Address>
+                    <dpi:Consideration>
+                      <dpi:ConsQ1 currCode="EUR">0</dpi:ConsQ1>
+                      <dpi:ConsQ2 currCode="EUR">140</dpi:ConsQ2>
+                      <dpi:ConsQ3 currCode="EUR">520</dpi:ConsQ3>
+                      <dpi:ConsQ4 currCode="EUR">45</dpi:ConsQ4>
+                    </dpi:Consideration>
+                    <dpi:NumberOfActivities>
+                      <dpi:NumbQ1>0</dpi:NumbQ1>
+                      <dpi:NumbQ2>3</dpi:NumbQ2>
+                      <dpi:NumbQ3>10</dpi:NumbQ3>
+                      <dpi:NumbQ4>1</dpi:NumbQ4>
+                    </dpi:NumberOfActivities>
+                    <dpi:Fees>
+                      <dpi:FeesQ1 currCode="EUR">0</dpi:FeesQ1>
+                      <dpi:FeesQ2 currCode="EUR">30</dpi:FeesQ2>
+                      <dpi:FeesQ3 currCode="EUR">108</dpi:FeesQ3>
+                      <dpi:FeesQ4 currCode="EUR">10</dpi:FeesQ4>
+                    </dpi:Fees>
+                    <dpi:Taxes>
+                      <dpi:TaxQ1 currCode="EUR">0</dpi:TaxQ1>
+                      <dpi:TaxQ2 currCode="EUR">6</dpi:TaxQ2>
+                      <dpi:TaxQ3 currCode="EUR">21</dpi:TaxQ3>
+                      <dpi:TaxQ4 currCode="EUR">2</dpi:TaxQ4>
+                    </dpi:Taxes>
+                    <dpi:RentedDays>50</dpi:RentedDays>
+                  </dpi:PropertyListing>
+                  <dpi:PropertyListing>
+                    <dpi:Address>
+                      <dpi:CountryCode>DE</dpi:CountryCode>
+                      <dpi:AddressFree>Radegundisweg 1, 86199, Augsburg</dpi:AddressFree>
+                    </dpi:Address>
+                    <dpi:Consideration>
+                      <dpi:ConsQ1 currCode="EUR">0</dpi:ConsQ1>
+                      <dpi:ConsQ2 currCode="EUR">52</dpi:ConsQ2>
+                      <dpi:ConsQ3 currCode="EUR">150</dpi:ConsQ3>
+                      <dpi:ConsQ4 currCode="EUR">30</dpi:ConsQ4>
+                    </dpi:Consideration>
+                    <dpi:NumberOfActivities>
+                      <dpi:NumbQ1>0</dpi:NumbQ1>
+                      <dpi:NumbQ2>3</dpi:NumbQ2>
+                      <dpi:NumbQ3>15</dpi:NumbQ3>
+                      <dpi:NumbQ4>2</dpi:NumbQ4>
+                    </dpi:NumberOfActivities>
+                    <dpi:Fees>
+                      <dpi:FeesQ1 currCode="EUR">0</dpi:FeesQ1>
+                      <dpi:FeesQ2 currCode="EUR">15</dpi:FeesQ2>
+                      <dpi:FeesQ3 currCode="EUR">57</dpi:FeesQ3>
+                      <dpi:FeesQ4 currCode="EUR">9</dpi:FeesQ4>
+                    </dpi:Fees>
+                    <dpi:Taxes>
+                      <dpi:TaxQ1 currCode="EUR">0</dpi:TaxQ1>
+                      <dpi:TaxQ2 currCode="EUR">3</dpi:TaxQ2>
+                      <dpi:TaxQ3 currCode="EUR">11</dpi:TaxQ3>
+                      <dpi:TaxQ4 currCode="EUR">2</dpi:TaxQ4>
+                    </dpi:Taxes>
+                    <dpi:RentedDays>42</dpi:RentedDays>
+                  </dpi:PropertyListing>
+                </dpi:ImmovableProperty>
+              </dpi:RelevantActivities>
+              <dpi:DocSpec>
+                <stf:DocTypeIndic>OECD1</stf:DocTypeIndic>
+                <stf:DocRefId>DE2023-2023835abf42-ca5f-4d9e-9f7a-6339be55358d</stf:DocRefId>
+              </dpi:DocSpec>
+            </dpi:ReportableSeller>
+            <dpi:ReportableSeller>
+              <dpi:Identity>
+                <dpi:EntitySeller>
+                  <dpi:Standard>
+                    <dpi:EntSellerID>
+                      <dpi:ResCountryCode>PT</dpi:ResCountryCode>
+                      <dpi:TIN issuedBy="PT">239519663</dpi:TIN>
+                      <dpi:Name>Francisco Gonçalves</dpi:Name>
+                      <dpi:Address>
+                        <dpi:CountryCode>PT</dpi:CountryCode>
+                        <dpi:AddressFree>Rua Manuel facica 9, 3830-751, Gafanha da Nazaré</dpi:AddressFree>
+                      </dpi:Address>
+                    </dpi:EntSellerID>
+                  </dpi:Standard>
+                </dpi:EntitySeller>
+              </dpi:Identity>
+              <dpi:RelevantActivities>
+                <dpi:ImmovableProperty>
+                  <dpi:PropertyListing>
+                    <dpi:Address>
+                      <dpi:CountryCode>PT</dpi:CountryCode>
+                      <dpi:AddressFree>Rua Manuel Facica, 3830, Gafanha da Nazaré</dpi:AddressFree>
+                    </dpi:Address>
+                    <dpi:Consideration>
+                      <dpi:ConsQ1 currCode="EUR">0</dpi:ConsQ1>
+                      <dpi:ConsQ2 currCode="EUR">145</dpi:ConsQ2>
+                      <dpi:ConsQ3 currCode="EUR">410</dpi:ConsQ3>
+                      <dpi:ConsQ4 currCode="EUR">60</dpi:ConsQ4>
+                    </dpi:Consideration>
+                    <dpi:NumberOfActivities>
+                      <dpi:NumbQ1>0</dpi:NumbQ1>
+                      <dpi:NumbQ2>11</dpi:NumbQ2>
+                      <dpi:NumbQ3>16</dpi:NumbQ3>
+                      <dpi:NumbQ4>4</dpi:NumbQ4>
+                    </dpi:NumberOfActivities>
+                    <dpi:Fees>
+                      <dpi:FeesQ1 currCode="EUR">0</dpi:FeesQ1>
+                      <dpi:FeesQ2 currCode="EUR">46</dpi:FeesQ2>
+                      <dpi:FeesQ3 currCode="EUR">99</dpi:FeesQ3>
+                      <dpi:FeesQ4 currCode="EUR">18</dpi:FeesQ4>
+                    </dpi:Fees>
+                    <dpi:Taxes>
+                      <dpi:TaxQ1 currCode="EUR">0</dpi:TaxQ1>
+                      <dpi:TaxQ2 currCode="EUR">11</dpi:TaxQ2>
+                      <dpi:TaxQ3 currCode="EUR">23</dpi:TaxQ3>
+                      <dpi:TaxQ4 currCode="EUR">4</dpi:TaxQ4>
+                    </dpi:Taxes>
+                    <dpi:RentedDays>71</dpi:RentedDays>
+                  </dpi:PropertyListing>
+                  <dpi:PropertyListing>
+                    <dpi:Address>
+                      <dpi:CountryCode>PT</dpi:CountryCode>
+                      <dpi:AddressFree>Rua Manuel Facica, 3830, Gafanha da Nazaré</dpi:AddressFree>
+                    </dpi:Address>
+                    <dpi:Consideration>
+                      <dpi:ConsQ1 currCode="EUR">0</dpi:ConsQ1>
+                      <dpi:ConsQ2 currCode="EUR">0</dpi:ConsQ2>
+                      <dpi:ConsQ3 currCode="EUR">101</dpi:ConsQ3>
+                      <dpi:ConsQ4 currCode="EUR">21</dpi:ConsQ4>
+                    </dpi:Consideration>
+                    <dpi:NumberOfActivities>
+                      <dpi:NumbQ1>0</dpi:NumbQ1>
+                      <dpi:NumbQ2>0</dpi:NumbQ2>
+                      <dpi:NumbQ3>8</dpi:NumbQ3>
+                      <dpi:NumbQ4>3</dpi:NumbQ4>
+                    </dpi:NumberOfActivities>
+                    <dpi:Fees>
+                      <dpi:FeesQ1 currCode="EUR">0</dpi:FeesQ1>
+                      <dpi:FeesQ2 currCode="EUR">0</dpi:FeesQ2>
+                      <dpi:FeesQ3 currCode="EUR">33</dpi:FeesQ3>
+                      <dpi:FeesQ4 currCode="EUR">10</dpi:FeesQ4>
+                    </dpi:Fees>
+                    <dpi:Taxes>
+                      <dpi:TaxQ1 currCode="EUR">0</dpi:TaxQ1>
+                      <dpi:TaxQ2 currCode="EUR">0</dpi:TaxQ2>
+                      <dpi:TaxQ3 currCode="EUR">8</dpi:TaxQ3>
+                      <dpi:TaxQ4 currCode="EUR">2</dpi:TaxQ4>
+                    </dpi:Taxes>
+                    <dpi:RentedDays>25</dpi:RentedDays>
+                  </dpi:PropertyListing>
+                </dpi:ImmovableProperty>
+              </dpi:RelevantActivities>
+              <dpi:DocSpec>
+                <stf:DocTypeIndic>OECD1</stf:DocTypeIndic>
+                <stf:DocRefId>DE2023-20233d14c500-1ceb-42c2-9552-ce3c9e4d27aa</stf:DocRefId>
+              </dpi:DocSpec>
+            </dpi:ReportableSeller>
+            <dpi:ReportableSeller>
+              <dpi:Identity>
+                <dpi:EntitySeller>
+                  <dpi:Standard>
+                    <dpi:EntSellerID>
+                      <dpi:ResCountryCode>DE</dpi:ResCountryCode>
+                      <dpi:TIN issuedBy="DE">408101E+12</dpi:TIN>
+                      <dpi:IN INType="BRN">HRB 21049</dpi:IN>
+                      <dpi:VAT>DE326822583</dpi:VAT>
+                      <dpi:Name>Bernsteinreiter Barth GmbH</dpi:Name>
+                      <dpi:Address>
+                        <dpi:CountryCode>DE</dpi:CountryCode>
+                        <dpi:AddressFree>Glöwitz 1, 18356, Barth</dpi:AddressFree>
+                      </dpi:Address>
+                    </dpi:EntSellerID>
+                  </dpi:Standard>
+                </dpi:EntitySeller>
+              </dpi:Identity>
+              <dpi:RelevantActivities>
+                <dpi:ImmovableProperty>
+                  <dpi:PropertyListing>
+                    <dpi:Address>
+                      <dpi:CountryCode>DE</dpi:CountryCode>
+                      <dpi:AddressFree>Glöwitz, 1, 18356, Barth</dpi:AddressFree>
+                    </dpi:Address>
+                    <dpi:Consideration>
+                      <dpi:ConsQ1 currCode="EUR">0</dpi:ConsQ1>
+                      <dpi:ConsQ2 currCode="EUR">52</dpi:ConsQ2>
+                      <dpi:ConsQ3 currCode="EUR">264</dpi:ConsQ3>
+                      <dpi:ConsQ4 currCode="EUR">11</dpi:ConsQ4>
+                    </dpi:Consideration>
+                    <dpi:NumberOfActivities>
+                      <dpi:NumbQ1>0</dpi:NumbQ1>
+                      <dpi:NumbQ2>3</dpi:NumbQ2>
+                      <dpi:NumbQ3>24</dpi:NumbQ3>
+                      <dpi:NumbQ4>1</dpi:NumbQ4>
+                    </dpi:NumberOfActivities>
+                    <dpi:Fees>
+                      <dpi:FeesQ1 currCode="EUR">0</dpi:FeesQ1>
+                      <dpi:FeesQ2 currCode="EUR">15</dpi:FeesQ2>
+                      <dpi:FeesQ3 currCode="EUR">95</dpi:FeesQ3>
+                      <dpi:FeesQ4 currCode="EUR">4</dpi:FeesQ4>
+                    </dpi:Fees>
+                    <dpi:Taxes>
+                      <dpi:TaxQ1 currCode="EUR">0</dpi:TaxQ1>
+                      <dpi:TaxQ2 currCode="EUR">3</dpi:TaxQ2>
+                      <dpi:TaxQ3 currCode="EUR">18</dpi:TaxQ3>
+                      <dpi:TaxQ4 currCode="EUR">1</dpi:TaxQ4>
+                    </dpi:Taxes>
+                    <dpi:RentedDays>56</dpi:RentedDays>
+                  </dpi:PropertyListing>
+                  <dpi:PropertyListing>
+                    <dpi:Address>
+                      <dpi:CountryCode>DE</dpi:CountryCode>
+                      <dpi:AddressFree>Glöwitz1, 18356, Barth</dpi:AddressFree>
+                    </dpi:Address>
+                    <dpi:Consideration>
+                      <dpi:ConsQ1 currCode="EUR">0</dpi:ConsQ1>
+                      <dpi:ConsQ2 currCode="EUR">48</dpi:ConsQ2>
+                      <dpi:ConsQ3 currCode="EUR">0</dpi:ConsQ3>
+                      <dpi:ConsQ4 currCode="EUR">0</dpi:ConsQ4>
+                    </dpi:Consideration>
+                    <dpi:NumberOfActivities>
+                      <dpi:NumbQ1>0</dpi:NumbQ1>
+                      <dpi:NumbQ2>2</dpi:NumbQ2>
+                      <dpi:NumbQ3>0</dpi:NumbQ3>
+                      <dpi:NumbQ4>0</dpi:NumbQ4>
+                    </dpi:NumberOfActivities>
+                    <dpi:Fees>
+                      <dpi:FeesQ1 currCode="EUR">0</dpi:FeesQ1>
+                      <dpi:FeesQ2 currCode="EUR">12</dpi:FeesQ2>
+                      <dpi:FeesQ3 currCode="EUR">0</dpi:FeesQ3>
+                      <dpi:FeesQ4 currCode="EUR">0</dpi:FeesQ4>
+                    </dpi:Fees>
+                    <dpi:Taxes>
+                      <dpi:TaxQ1 currCode="EUR">0</dpi:TaxQ1>
+                      <dpi:TaxQ2 currCode="EUR">2</dpi:TaxQ2>
+                      <dpi:TaxQ3 currCode="EUR">0</dpi:TaxQ3>
+                      <dpi:TaxQ4 currCode="EUR">0</dpi:TaxQ4>
+                    </dpi:Taxes>
+                    <dpi:RentedDays>4</dpi:RentedDays>
+                  </dpi:PropertyListing>
+                  <dpi:PropertyListing>
+                    <dpi:Address>
+                      <dpi:CountryCode>DE</dpi:CountryCode>
+                      <dpi:AddressFree>Glöwitz, 1, 18356, Barth</dpi:AddressFree>
+                    </dpi:Address>
+                    <dpi:Consideration>
+                      <dpi:ConsQ1 currCode="EUR">0</dpi:ConsQ1>
+                      <dpi:ConsQ2 currCode="EUR">28</dpi:ConsQ2>
+                      <dpi:ConsQ3 currCode="EUR">0</dpi:ConsQ3>
+                      <dpi:ConsQ4 currCode="EUR">0</dpi:ConsQ4>
+                    </dpi:Consideration>
+                    <dpi:NumberOfActivities>
+                      <dpi:NumbQ1>0</dpi:NumbQ1>
+                      <dpi:NumbQ2>1</dpi:NumbQ2>
+                      <dpi:NumbQ3>0</dpi:NumbQ3>
+                      <dpi:NumbQ4>0</dpi:NumbQ4>
+                    </dpi:NumberOfActivities>
+                    <dpi:Fees>
+                      <dpi:FeesQ1 currCode="EUR">0</dpi:FeesQ1>
+                      <dpi:FeesQ2 currCode="EUR">7</dpi:FeesQ2>
+                      <dpi:FeesQ3 currCode="EUR">0</dpi:FeesQ3>
+                      <dpi:FeesQ4 currCode="EUR">0</dpi:FeesQ4>
+                    </dpi:Fees>
+                    <dpi:Taxes>
+                      <dpi:TaxQ1 currCode="EUR">0</dpi:TaxQ1>
+                      <dpi:TaxQ2 currCode="EUR">1</dpi:TaxQ2>
+                      <dpi:TaxQ3 currCode="EUR">0</dpi:TaxQ3>
+                      <dpi:TaxQ4 currCode="EUR">0</dpi:TaxQ4>
+                    </dpi:Taxes>
+                    <dpi:RentedDays>2</dpi:RentedDays>
+                  </dpi:PropertyListing>
+                </dpi:ImmovableProperty>
+              </dpi:RelevantActivities>
+              <dpi:DocSpec>
+                <stf:DocTypeIndic>OECD1</stf:DocTypeIndic>
+                <stf:DocRefId>DE2023-20238785643a-9ce2-4874-8de2-e9d5c6912c32</stf:DocRefId>
+              </dpi:DocSpec>
+            </dpi:ReportableSeller>
+            <dpi:ReportableSeller>
+              <dpi:Identity>
+                <dpi:EntitySeller>
+                  <dpi:Standard>
+                    <dpi:EntSellerID>
+                      <dpi:ResCountryCode>PT</dpi:ResCountryCode>
+                      <dpi:TIN issuedBy="PT">513822844</dpi:TIN>
+                      <dpi:VAT>513822844</dpi:VAT>
+                      <dpi:Name>The promise land LDA</dpi:Name>
+                      <dpi:Address>
+                        <dpi:CountryCode>PT</dpi:CountryCode>
+                        <dpi:AddressFree>Font fria Nicolau de Baixo 1, 7570-336, Grandola</dpi:AddressFree>
+                      </dpi:Address>
+                    </dpi:EntSellerID>
+                  </dpi:Standard>
+                </dpi:EntitySeller>
+              </dpi:Identity>
+              <dpi:RelevantActivities>
+                <dpi:ImmovableProperty>
+                  <dpi:PropertyListing>
+                    <dpi:Address>
+                      <dpi:CountryCode>PT</dpi:CountryCode>
+                      <dpi:AddressFree>Nicolau de Baixo , 7570336, Grandola </dpi:AddressFree>
+                    </dpi:Address>
+                    <dpi:Consideration>
+                      <dpi:ConsQ1 currCode="EUR">0</dpi:ConsQ1>
+                      <dpi:ConsQ2 currCode="EUR">44</dpi:ConsQ2>
+                      <dpi:ConsQ3 currCode="EUR">484</dpi:ConsQ3>
+                      <dpi:ConsQ4 currCode="EUR">0</dpi:ConsQ4>
+                    </dpi:Consideration>
+                    <dpi:NumberOfActivities>
+                      <dpi:NumbQ1>0</dpi:NumbQ1>
+                      <dpi:NumbQ2>1</dpi:NumbQ2>
+                      <dpi:NumbQ3>5</dpi:NumbQ3>
+                      <dpi:NumbQ4>0</dpi:NumbQ4>
+                    </dpi:NumberOfActivities>
+                    <dpi:Fees>
+                      <dpi:FeesQ1 currCode="EUR">0</dpi:FeesQ1>
+                      <dpi:FeesQ2 currCode="EUR">11</dpi:FeesQ2>
+                      <dpi:FeesQ3 currCode="EUR">109</dpi:FeesQ3>
+                      <dpi:FeesQ4 currCode="EUR">0</dpi:FeesQ4>
+                    </dpi:Fees>
+                    <dpi:Taxes>
+                      <dpi:TaxQ1 currCode="EUR">0</dpi:TaxQ1>
+                      <dpi:TaxQ2 currCode="EUR">0</dpi:TaxQ2>
+                      <dpi:TaxQ3 currCode="EUR">0</dpi:TaxQ3>
+                      <dpi:TaxQ4 currCode="EUR">0</dpi:TaxQ4>
+                    </dpi:Taxes>
+                    <dpi:RentedDays>20</dpi:RentedDays>
+                  </dpi:PropertyListing>
+                  <dpi:PropertyListing>
+                    <dpi:Address>
+                      <dpi:CountryCode>PT</dpi:CountryCode>
+                      <dpi:AddressFree>Font Fria Nicolau , 7570-336, Grandola </dpi:AddressFree>
+                    </dpi:Address>
+                    <dpi:Consideration>
+                      <dpi:ConsQ1 currCode="EUR">0</dpi:ConsQ1>
+                      <dpi:ConsQ2 currCode="EUR">0</dpi:ConsQ2>
+                      <dpi:ConsQ3 currCode="EUR">1837</dpi:ConsQ3>
+                      <dpi:ConsQ4 currCode="EUR">279</dpi:ConsQ4>
+                    </dpi:Consideration>
+                    <dpi:NumberOfActivities>
+                      <dpi:NumbQ1>0</dpi:NumbQ1>
+                      <dpi:NumbQ2>0</dpi:NumbQ2>
+                      <dpi:NumbQ3>38</dpi:NumbQ3>
+                      <dpi:NumbQ4>6</dpi:NumbQ4>
+                    </dpi:NumberOfActivities>
+                    <dpi:Fees>
+                      <dpi:FeesQ1 currCode="EUR">0</dpi:FeesQ1>
+                      <dpi:FeesQ2 currCode="EUR">0</dpi:FeesQ2>
+                      <dpi:FeesQ3 currCode="EUR">462</dpi:FeesQ3>
+                      <dpi:FeesQ4 currCode="EUR">71</dpi:FeesQ4>
+                    </dpi:Fees>
+                    <dpi:Taxes>
+                      <dpi:TaxQ1 currCode="EUR">0</dpi:TaxQ1>
+                      <dpi:TaxQ2 currCode="EUR">0</dpi:TaxQ2>
+                      <dpi:TaxQ3 currCode="EUR">0</dpi:TaxQ3>
+                      <dpi:TaxQ4 currCode="EUR">0</dpi:TaxQ4>
+                    </dpi:Taxes>
+                    <dpi:RentedDays>90</dpi:RentedDays>
+                  </dpi:PropertyListing>
+                </dpi:ImmovableProperty>
+              </dpi:RelevantActivities>
+              <dpi:DocSpec>
+                <stf:DocTypeIndic>OECD1</stf:DocTypeIndic>
+                <stf:DocRefId>DE2023-202366b23737-a0b6-4a4d-aa93-e66ab0b6e9ad</stf:DocRefId>
+              </dpi:DocSpec>
+            </dpi:ReportableSeller>
+            <dpi:ReportableSeller>
+              <dpi:Identity>
+                <dpi:EntitySeller>
+                  <dpi:Standard>
+                    <dpi:EntSellerID>
+                      <dpi:ResCountryCode>DE</dpi:ResCountryCode>
+                      <dpi:TIN issuedBy="DE">915606E+12</dpi:TIN>
+                      <dpi:Name>Reiser</dpi:Name>
+                      <dpi:Address>
+                        <dpi:CountryCode>DE</dpi:CountryCode>
+                        <dpi:AddressFree>Staudach 3, 83129, Höslwang</dpi:AddressFree>
+                      </dpi:Address>
+                    </dpi:EntSellerID>
+                  </dpi:Standard>
+                </dpi:EntitySeller>
+              </dpi:Identity>
+              <dpi:RelevantActivities>
+                <dpi:ImmovableProperty>
+                  <dpi:PropertyListing>
+                    <dpi:Address>
+                      <dpi:CountryCode>DE</dpi:CountryCode>
+                      <dpi:AddressFree>Staudach, 3, 83129, Höslwang</dpi:AddressFree>
+                    </dpi:Address>
+                    <dpi:Consideration>
+                      <dpi:ConsQ1 currCode="EUR">0</dpi:ConsQ1>
+                      <dpi:ConsQ2 currCode="EUR">104</dpi:ConsQ2>
+                      <dpi:ConsQ3 currCode="EUR">414</dpi:ConsQ3>
+                      <dpi:ConsQ4 currCode="EUR">84</dpi:ConsQ4>
+                    </dpi:Consideration>
+                    <dpi:NumberOfActivities>
+                      <dpi:NumbQ1>0</dpi:NumbQ1>
+                      <dpi:NumbQ2>5</dpi:NumbQ2>
+                      <dpi:NumbQ3>23</dpi:NumbQ3>
+                      <dpi:NumbQ4>5</dpi:NumbQ4>
+                    </dpi:NumberOfActivities>
+                    <dpi:Fees>
+                      <dpi:FeesQ1 currCode="EUR">0</dpi:FeesQ1>
+                      <dpi:FeesQ2 currCode="EUR">28</dpi:FeesQ2>
+                      <dpi:FeesQ3 currCode="EUR">118</dpi:FeesQ3>
+                      <dpi:FeesQ4 currCode="EUR">25</dpi:FeesQ4>
+                    </dpi:Fees>
+                    <dpi:Taxes>
+                      <dpi:TaxQ1 currCode="EUR">0</dpi:TaxQ1>
+                      <dpi:TaxQ2 currCode="EUR">5</dpi:TaxQ2>
+                      <dpi:TaxQ3 currCode="EUR">22</dpi:TaxQ3>
+                      <dpi:TaxQ4 currCode="EUR">5</dpi:TaxQ4>
+                    </dpi:Taxes>
+                    <dpi:RentedDays>80</dpi:RentedDays>
+                  </dpi:PropertyListing>
+                  <dpi:PropertyListing>
+                    <dpi:Address>
+                      <dpi:CountryCode>DE</dpi:CountryCode>
+                      <dpi:AddressFree>Staudach 3, 83129, Höslwang</dpi:AddressFree>
+                    </dpi:Address>
+                    <dpi:Consideration>
+                      <dpi:ConsQ1 currCode="EUR">0</dpi:ConsQ1>
+                      <dpi:ConsQ2 currCode="EUR">0</dpi:ConsQ2>
+                      <dpi:ConsQ3 currCode="EUR">132</dpi:ConsQ3>
+                      <dpi:ConsQ4 currCode="EUR">48</dpi:ConsQ4>
+                    </dpi:Consideration>
+                    <dpi:NumberOfActivities>
+                      <dpi:NumbQ1>0</dpi:NumbQ1>
+                      <dpi:NumbQ2>0</dpi:NumbQ2>
+                      <dpi:NumbQ3>10</dpi:NumbQ3>
+                      <dpi:NumbQ4>3</dpi:NumbQ4>
+                    </dpi:NumberOfActivities>
+                    <dpi:Fees>
+                      <dpi:FeesQ1 currCode="EUR">0</dpi:FeesQ1>
+                      <dpi:FeesQ2 currCode="EUR">0</dpi:FeesQ2>
+                      <dpi:FeesQ3 currCode="EUR">43</dpi:FeesQ3>
+                      <dpi:FeesQ4 currCode="EUR">14</dpi:FeesQ4>
+                    </dpi:Fees>
+                    <dpi:Taxes>
+                      <dpi:TaxQ1 currCode="EUR">0</dpi:TaxQ1>
+                      <dpi:TaxQ2 currCode="EUR">0</dpi:TaxQ2>
+                      <dpi:TaxQ3 currCode="EUR">8</dpi:TaxQ3>
+                      <dpi:TaxQ4 currCode="EUR">3</dpi:TaxQ4>
+                    </dpi:Taxes>
+                    <dpi:RentedDays>28</dpi:RentedDays>
+                  </dpi:PropertyListing>
+                </dpi:ImmovableProperty>
+              </dpi:RelevantActivities>
+              <dpi:DocSpec>
+                <stf:DocTypeIndic>OECD1</stf:DocTypeIndic>
+                <stf:DocRefId>DE2023-2023db221e04-dbf2-4e7e-8330-872be21551b2</stf:DocRefId>
+              </dpi:DocSpec>
+            </dpi:ReportableSeller>
+          </dpi:DPIBody>
+        </dpi:DPI_OECD>
+      </dip:data>
+    </dip:consignmentItem>
+  </dip:body>
+</dip:dip></ds:Object></ds:Signature>
