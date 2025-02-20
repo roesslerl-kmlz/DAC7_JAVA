@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dip:dip version="1.0" xmlns:dip="http://itzbund.de/ozg/bzst/post/dip/v1/" xmlns:dpi="urn:oecd:ties:dpi:v1" xmlns:iso="urn:oecd:ties:isodpitypes:v1" xmlns:stf="urn:oecd:ties:dpistf:v1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://itzbund.de/ozg/bzst/post/dip/v1/ dip.xsd ">
+	<dip:header environment="TEST">
+		<dip:consignment>
+			<dip:customerIdentifier>
+				<dip:identityProvider>BZST-CERT</dip:identityProvider>
+				<dip:identifier>BZ123456789</dip:identifier>
+			</dip:customerIdentifier>
+			<dip:creationTime>2023-10-01T12:00:00</dip:creationTime>
+			<dip:transferticketId>09dedc8e-d2f8-4293-ad9e-9b50abce961c</dip:transferticketId>
+		</dip:consignment>
+		<dip:application code="DAC7"/>
+	</dip:header>
+	<dip:body>
+		<dip:consignmentItem>
+			<dip:data>
+				<dpi:DPI_OECD version="1.0" xsi:schemaLocation="urn:oecd:ties:dpi:v1 DPIXML_v1.0.xsd ">
+					<dpi:MessageSpec>
+						<dpi:SendingEntityIN>1234567891011</dpi:SendingEntityIN>
+						<dpi:TransmittingCountry>DE</dpi:TransmittingCountry>
+						<dpi:ReceivingCountry>DE</dpi:ReceivingCountry>
+						<dpi:MessageType>DPI</dpi:MessageType>
+						<dpi:MessageRefId>DE2023DE-c0d5e394-e264-4dc7-9e51-c57b6a638ae5
+						</dpi:MessageRefId>
+						<dpi:MessageTypeIndic>DPI401</dpi:MessageTypeIndic>
+						<dpi:ReportingPeriod>2023-12-31</dpi:ReportingPeriod>
+						<dpi:Timestamp>2022-12-15T09:45:30</dpi:Timestamp>
+					</dpi:MessageSpec>
+					<dpi:DPIBody>
+						<dpi:PlatformOperator>
+							<dpi:ResCountryCode>DE</dpi:ResCountryCode>
+							<dpi:TIN issuedBy="DE">1234567891011
+							</dpi:TIN>
+							<dpi:Name>Plattformbetreiber GmbH</dpi:Name>
+							<dpi:PlatformBusinessName>Testplattform</dpi:PlatformBusinessName>
+							<dpi:Address legalAddressType="OECD304">
+								<dpi:CountryCode>DE</dpi:CountryCode>
+								<dpi:AddressFix>
+									<dpi:Street>Plattformbetreiberstraße</dpi:Street>
+									<dpi:BuildingIdentifier>2</dpi:BuildingIdentifier>
+									<dpi:PostCode>12345</dpi:PostCode>
+									<dpi:City>Plattformbetreiberstadt</dpi:City>
+								</dpi:AddressFix>
+							</dpi:Address>
+							<dpi:Nexus>RPONEX1</dpi:Nexus>
+							<dpi:AssumedReporting>false</dpi:AssumedReporting>
+							<dpi:DocSpec>
+								<stf:DocTypeIndic>OECD1</stf:DocTypeIndic>
+								<stf:DocRefId>DE2023-d5c4c49b-79bc-4b22-a6cd-3f45cfd801f3</stf:DocRefId>
+							</dpi:DocSpec>
+						</dpi:PlatformOperator>
+						<dpi:ReportableSeller>
+							<dpi:Identity>
+								<dpi:EntitySeller>
+									<dpi:Standard>
+										<dpi:EntSellerID>
+											<dpi:ResCountryCode>DE</dpi:ResCountryCode>
+											<dpi:TIN issuedBy="DE">1234567891011</dpi:TIN>
+											<dpi:IN INType="BRN" issuedBy="DE">HRB 12345</dpi:IN>
+											<dpi:VAT>DE123456789</dpi:VAT>
+											<dpi:Name>Anbieter AG</dpi:Name>
+											<dpi:Address legalAddressType="OECD304">
+												<dpi:CountryCode>DE</dpi:CountryCode>
+												<dpi:AddressFix>
+													<dpi:Street>Anbieterstraße</dpi:Street>
+													<dpi:BuildingIdentifier>5</dpi:BuildingIdentifier>
+													<dpi:PostCode>54321</dpi:PostCode>
+													<dpi:City>Anbieterstadt</dpi:City>
+												</dpi:AddressFix>
+											</dpi:Address>
+										</dpi:EntSellerID>
+										<dpi:PermanentEstablishments>
+											<dpi:PermanentEstablishment>NL</dpi:PermanentEstablishment>
+										</dpi:PermanentEstablishments>
+									</dpi:Standard>
+								</dpi:EntitySeller>
+							</dpi:Identity>
+							<dpi:RelevantActivities>
+								<dpi:ImmovableProperty>
+									<dpi:PropertyListing>
+										<dpi:Address>
+											<dpi:CountryCode>DE</dpi:CountryCode>
+											<dpi:AddressFix>
+												<dpi:Street>Hotelstraße</dpi:Street>
+												<dpi:BuildingIdentifier>1</dpi:BuildingIdentifier>
+												<dpi:PostCode>98765</dpi:PostCode>
+												<dpi:City>Hotelstadt</dpi:City>
+											</dpi:AddressFix>
+										</dpi:Address>
+										<dpi:LandRegistrationNumber>Grundbuchnummer 1234</dpi:LandRegistrationNumber>
+										<dpi:Consideration>
+											<dpi:ConsQ1 currCode="EUR">1200</dpi:ConsQ1>
+											<dpi:ConsQ2 currCode="EUR">3400</dpi:ConsQ2>
+											<dpi:ConsQ3 currCode="EUR">5600</dpi:ConsQ3>
+											<dpi:ConsQ4 currCode="EUR">7800</dpi:ConsQ4>
+										</dpi:Consideration>
+										<dpi:NumberOfActivities>
+											<dpi:NumbQ1>10</dpi:NumbQ1>
+											<dpi:NumbQ2>20</dpi:NumbQ2>
+											<dpi:NumbQ3>30</dpi:NumbQ3>
+											<dpi:NumbQ4>40</dpi:NumbQ4>
+										</dpi:NumberOfActivities>
+										<dpi:Fees>
+											<dpi:FeesQ1 currCode="EUR">100</dpi:FeesQ1>
+											<dpi:FeesQ2 currCode="EUR">200</dpi:FeesQ2>
+											<dpi:FeesQ3 currCode="EUR">300</dpi:FeesQ3>
+											<dpi:FeesQ4 currCode="EUR">400</dpi:FeesQ4>
+										</dpi:Fees>
+										<dpi:Taxes>
+											<dpi:TaxQ1 currCode="EUR">100</dpi:TaxQ1>
+											<dpi:TaxQ2 currCode="EUR">200</dpi:TaxQ2>
+											<dpi:TaxQ3 currCode="EUR">300</dpi:TaxQ3>
+											<dpi:TaxQ4 currCode="EUR">400</dpi:TaxQ4>
+										</dpi:Taxes>
+										<dpi:PropertyType>DPI902</dpi:PropertyType>
+										<dpi:RentedDays>150</dpi:RentedDays>
+									</dpi:PropertyListing>
+								</dpi:ImmovableProperty>
+								<dpi:PersonalServices>
+									<dpi:Consideration>
+										<dpi:ConsQ1 currCode="EUR">1200</dpi:ConsQ1>
+										<dpi:ConsQ2 currCode="EUR">3400</dpi:ConsQ2>
+										<dpi:ConsQ3 currCode="EUR">5600</dpi:ConsQ3>
+										<dpi:ConsQ4 currCode="EUR">7800</dpi:ConsQ4>
+									</dpi:Consideration>
+									<dpi:NumberOfActivities>
+										<dpi:NumbQ1>10</dpi:NumbQ1>
+										<dpi:NumbQ2>20</dpi:NumbQ2>
+										<dpi:NumbQ3>30</dpi:NumbQ3>
+										<dpi:NumbQ4>40</dpi:NumbQ4>
+									</dpi:NumberOfActivities>
+									<dpi:Fees>
+										<dpi:FeesQ1 currCode="EUR">100</dpi:FeesQ1>
+										<dpi:FeesQ2 currCode="EUR">200</dpi:FeesQ2>
+										<dpi:FeesQ3 currCode="EUR">300</dpi:FeesQ3>
+										<dpi:FeesQ4 currCode="EUR">400</dpi:FeesQ4>
+									</dpi:Fees>
+									<dpi:Taxes>
+										<dpi:TaxQ1 currCode="EUR">100</dpi:TaxQ1>
+										<dpi:TaxQ2 currCode="EUR">200</dpi:TaxQ2>
+										<dpi:TaxQ3 currCode="EUR">300</dpi:TaxQ3>
+										<dpi:TaxQ4 currCode="EUR">400</dpi:TaxQ4>
+									</dpi:Taxes>
+								</dpi:PersonalServices>
+							</dpi:RelevantActivities>
+							<dpi:DocSpec>
+								<stf:DocTypeIndic>OECD1</stf:DocTypeIndic>
+								<stf:DocRefId>DE2023-b329edaf-4682-434d-90a3-f85871069791</stf:DocRefId>
+							</dpi:DocSpec>
+						</dpi:ReportableSeller>
+						<dpi:ReportableSeller>
+							<dpi:Identity>
+								<dpi:IndividualSeller>
+									<dpi:Standard>
+										<dpi:IndSellerID>
+											<dpi:ResCountryCode>AT</dpi:ResCountryCode>
+											<dpi:TIN issuedBy="AT">987654321</dpi:TIN>
+											<dpi:VAT>ATU12345678</dpi:VAT>
+											<dpi:Name>
+												<dpi:FirstName>Max</dpi:FirstName>
+												<dpi:LastName>Mustermann</dpi:LastName>
+											</dpi:Name>
+											<dpi:Address legalAddressType="OECD302">
+												<dpi:CountryCode>AT</dpi:CountryCode>
+												<dpi:AddressFix>
+													<dpi:Street>Anbieterstraße</dpi:Street>
+													<dpi:BuildingIdentifier>6</dpi:BuildingIdentifier>
+													<dpi:PostCode>54321</dpi:PostCode>
+													<dpi:City>Anbieterstadt</dpi:City>
+												</dpi:AddressFix>
+											</dpi:Address>
+											<dpi:BirthInfo>
+												<dpi:BirthDate>2000-01-01</dpi:BirthDate>
+												<dpi:BirthPlace>
+													<dpi:City>Anbieterstadt</dpi:City>
+													<dpi:CountryInfo>
+														<dpi:CountryCode>AT</dpi:CountryCode>
+													</dpi:CountryInfo>
+												</dpi:BirthPlace>
+											</dpi:BirthInfo>
+										</dpi:IndSellerID>
+									</dpi:Standard>
+								</dpi:IndividualSeller>
+							</dpi:Identity>
+							<dpi:RelevantActivities>
+								<dpi:ImmovableProperty>
+									<dpi:PropertyListing>
+										<dpi:Address>
+											<dpi:CountryCode>AT</dpi:CountryCode>
+											<dpi:AddressFix>
+												<dpi:Street>Mietstraße</dpi:Street>
+												<dpi:BuildingIdentifier>1</dpi:BuildingIdentifier>
+												<dpi:PostCode>1234</dpi:PostCode>
+												<dpi:City>Mietstadt</dpi:City>
+											</dpi:AddressFix>
+										</dpi:Address>
+										<dpi:LandRegistrationNumber>Grundbuchnummer 1234</dpi:LandRegistrationNumber>
+										<dpi:Consideration>
+											<dpi:ConsQ1 currCode="EUR">1200</dpi:ConsQ1>
+											<dpi:ConsQ2 currCode="EUR">3400</dpi:ConsQ2>
+											<dpi:ConsQ3 currCode="EUR">5600</dpi:ConsQ3>
+											<dpi:ConsQ4 currCode="EUR">7800</dpi:ConsQ4>
+										</dpi:Consideration>
+										<dpi:NumberOfActivities>
+											<dpi:NumbQ1>10</dpi:NumbQ1>
+											<dpi:NumbQ2>20</dpi:NumbQ2>
+											<dpi:NumbQ3>30</dpi:NumbQ3>
+											<dpi:NumbQ4>40</dpi:NumbQ4>
+										</dpi:NumberOfActivities>
+										<dpi:Fees>
+											<dpi:FeesQ1 currCode="EUR">100</dpi:FeesQ1>
+											<dpi:FeesQ2 currCode="EUR">200</dpi:FeesQ2>
+											<dpi:FeesQ3 currCode="EUR">300</dpi:FeesQ3>
+											<dpi:FeesQ4 currCode="EUR">400</dpi:FeesQ4>
+										</dpi:Fees>
+										<dpi:Taxes>
+											<dpi:TaxQ1 currCode="EUR">100</dpi:TaxQ1>
+											<dpi:TaxQ2 currCode="EUR">200</dpi:TaxQ2>
+											<dpi:TaxQ3 currCode="EUR">300</dpi:TaxQ3>
+											<dpi:TaxQ4 currCode="EUR">400</dpi:TaxQ4>
+										</dpi:Taxes>
+										<dpi:PropertyType>DPI903</dpi:PropertyType>
+										<dpi:RentedDays>100</dpi:RentedDays>
+									</dpi:PropertyListing>
+								</dpi:ImmovableProperty>
+							</dpi:RelevantActivities>
+							<dpi:DocSpec>
+								<stf:DocTypeIndic>OECD1</stf:DocTypeIndic>
+								<stf:DocRefId>DE2023-84a3074e-32bf-11ee-be56-0242ac120002</stf:DocRefId>
+							</dpi:DocSpec>
+						</dpi:ReportableSeller>
+					</dpi:DPIBody>
+				</dpi:DPI_OECD>
+			</dip:data>
+		</dip:consignmentItem>
+	</dip:body>
+</dip:dip>
